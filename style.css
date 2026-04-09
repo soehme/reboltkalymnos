@@ -2,14 +2,14 @@
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
 :root {
-  --bg: #000;
-  --surface: #141414;
-  --surface2: #1e1e1e;
-  --border: rgba(255,255,255,0.1);
+  --bg: #111210;
+  --surface: #1c1c1a;
+  --surface2: #242422;
+  --border: rgba(255,255,255,0.09);
   --green: #6eab23;
-  --gold: #d09414;
-  --text: #fff;
-  --muted: rgba(255,255,255,0.45);
+  --amber: #c4892a;
+  --text: #f0ede8;
+  --muted: rgba(240,237,232,0.4);
   --radius: 8px;
 }
 
@@ -43,7 +43,7 @@ header {
 }
 
 .logo-link { display: flex; flex-shrink: 0; }
-.logo { height: 26px; width: auto; display: block; }
+.logo { height: 36px; width: auto; display: block; }
 
 .header-title {
   display: flex;
@@ -130,7 +130,7 @@ header {
   flex-shrink: 0;
 }
 .ac-type--crag  { background: rgba(110,171,35,0.2); color: var(--green); }
-.ac-type--route { background: rgba(208,148,20,0.2); color: var(--gold); }
+.ac-type--route { background: rgba(196,137,42,0.2); color: var(--amber); }
 
 /* ── Search term chips ───────────────────────────────────────────────────── */
 .chips-row {
@@ -152,7 +152,7 @@ header {
   border: 1px solid;
 }
 .chip--crag  { background: rgba(110,171,35,0.15); border-color: var(--green); color: var(--green); }
-.chip--route { background: rgba(208,148,20,0.15); border-color: var(--gold);  color: var(--gold); }
+.chip--route { background: rgba(196,137,42,0.15); border-color: var(--amber); color: var(--amber); }
 .chip--text  { background: rgba(255,255,255,0.08); border-color: rgba(255,255,255,0.25); color: #fff; }
 
 .chip-type {
@@ -218,49 +218,50 @@ main {
 .card:only-child  { border-radius: var(--radius); }
 .card:not(:last-child) { border-bottom: 1px solid var(--border); }
 
-.card-meta {
-  margin-bottom: 2px;
-}
-
 .crag {
+  display: block;
   font-size: 10px;
   font-weight: 700;
   text-transform: uppercase;
-  letter-spacing: 0.8px;
+  letter-spacing: 0.9px;
   color: var(--green);
+  margin-bottom: 2px;
 }
 
-.date {
-  font-size: 11px;
-  font-weight: 600;
-  color: var(--gold);
-  white-space: nowrap;
+.route-row {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 10px;
+  margin-bottom: 4px;
 }
 
 .route-name {
   font-size: 16px;
   font-weight: 700;
   color: var(--text);
-  margin-bottom: 5px;
   line-height: 1.3;
+  flex: 1;
 }
 
-.job-row {
-  display: flex;
-  align-items: baseline;
-  justify-content: space-between;
-  gap: 10px;
-  margin-bottom: 3px;
+.date {
+  font-size: 11px;
+  font-weight: 600;
+  color: var(--amber);
+  white-space: nowrap;
+  flex-shrink: 0;
 }
 
 .job {
   font-size: 13px;
-  color: rgba(255,255,255,0.75);
+  color: rgba(240,237,232,0.7);
+  margin-bottom: 3px;
 }
 
 .hardware {
   font-size: 12px;
   color: var(--muted);
+  margin-top: 2px;
 }
 
 /* ── Footer ──────────────────────────────────────────────────────────────── */
