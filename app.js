@@ -203,11 +203,8 @@ function card(r) {
   li.className = "card";
   li.innerHTML = `
     <span class="crag">${esc(r.crag)}</span>
-    <div class="route-row">
-      <span class="route-name">${esc(r.route)}</span>
-      <span class="date">${esc(r.date)}</span>
-    </div>
-    <div class="job">${esc(r.job)}</div>
+    <div class="route-name">${esc(r.route)}</div>
+    <div class="job">${esc(r.job)}<span class="date"> · ${esc(r.date)}</span></div>
     ${r.hardware ? `<div class="hardware">${esc(r.hardware)}</div>` : ""}
   `;
   return li;
