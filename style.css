@@ -50,30 +50,26 @@ header {
   height: 40px;
   width: auto;
   display: block;
+  margin: 6px 0;
 }
 
-/* ── Burger button ───────────────────────────────────────────────────────── */
+/* ── Info button ─────────────────────────────────────────────────────────── */
 .burger {
   display: flex;
-  flex-direction: column;
+  align-items: center;
   justify-content: center;
-  gap: 5px;
   width: 36px;
   height: 36px;
   background: none;
   border: none;
   cursor: pointer;
   padding: 4px;
+  color: var(--text);
   flex-shrink: 0;
+  opacity: 0.75;
+  transition: opacity 0.15s;
 }
-.burger span {
-  display: block;
-  height: 2px;
-  background: var(--text);
-  border-radius: 2px;
-  transition: opacity 0.2s;
-}
-.burger:active span { opacity: 0.5; }
+.burger:active { opacity: 0.4; }
 
 /* ── Search ──────────────────────────────────────────────────────────────── */
 .search-wrapper {
@@ -340,36 +336,41 @@ main {
 /* ── Light mode ──────────────────────────────────────────────────────────── */
 @media (prefers-color-scheme: light) {
   :root {
-    --bg: #f5f2ed;
-    --surface: #eae6df;
-    --surface2: #dedad2;
-    --border: rgba(0,0,0,0.09);
-    --accent: #3d6fa8;
-    --text: #1a1917;
-    --muted: rgba(26,25,23,0.45);
+    --bg: #eff1f4;
+    --surface: #ffffff;
+    --surface2: #e4e7ec;
+    --border: rgba(0,0,0,0.08);
+    --accent: #1a56db;
+    --text: #111827;
+    --muted: rgba(17,24,39,0.45);
   }
 
-  #search { border-color: rgba(0,0,0,0.15); }
+  #search {
+    background: #fff;
+    border-color: rgba(0,0,0,0.12);
+  }
 
-  .ac-item:active, .ac-item.ac-active { background: rgba(61,111,168,0.12); }
+  .ac-item:active, .ac-item.ac-active { background: rgba(26,86,219,0.08); }
 
-  .ac-type--route { background: rgba(0,0,0,0.07); color: rgba(26,25,23,0.55); }
+  .ac-type--crag  { background: rgba(26,86,219,0.1); color: var(--accent); }
+  .ac-type--route { background: rgba(0,0,0,0.06); color: rgba(17,24,39,0.5); }
 
   .chip--route, .chip--text {
-    background: rgba(0,0,0,0.06);
-    border-color: rgba(0,0,0,0.2);
-    color: rgba(26,25,23,0.75);
+    background: rgba(0,0,0,0.05);
+    border-color: rgba(0,0,0,0.18);
+    color: rgba(17,24,39,0.75);
   }
 
-  .chip-remove { background: rgba(0,0,0,0.1); }
-  .chip-remove:active { background: rgba(0,0,0,0.2); }
+  .chip-remove { background: rgba(0,0,0,0.08); }
+  .chip-remove:active { background: rgba(0,0,0,0.18); }
 
-  .crag  { color: rgba(26,25,23,0.4); }
-  .job   { color: rgba(26,25,23,0.7); }
-  .date  { color: rgba(26,25,23,0.4); }
+  .crag  { color: rgba(17,24,39,0.38); }
+  .job   { color: rgba(17,24,39,0.68); }
+  .date  { color: rgba(17,24,39,0.38); }
+  .hardware { color: rgba(17,24,39,0.4); }
 
-  .btn-action { border-color: rgba(0,0,0,0.4); }
-  .btn-action:active { background: #000; color: #fff; }
+  .btn-action { border-color: rgba(0,0,0,0.35); }
+  .btn-action:active { background: #111827; color: #fff; }
 
-  .menu-handle { background: rgba(0,0,0,0.15); }
+  .menu-handle { background: rgba(0,0,0,0.12); }
 }

@@ -38,6 +38,23 @@ function closeMenu() {
 $burger.addEventListener("click", openMenu);
 $overlay.addEventListener("click", closeMenu);
 
+// ── Swipe-to-close ────────────────────────────────────────────────────────────
+let swipeStartY = 0;
+$drawer.addEventListener("touchstart", (e) => {
+  swipeStartY = e.touches[0].clientY;
+  $drawer.style.transition = "none";
+}, { passive: true });
+$drawer.addEventListener("touchmove", (e) => {
+  const delta = e.touches[0].clientY - swipeStartY;
+  if (delta > 0) $drawer.style.transform = `translateY(${delta}px)`;
+}, { passive: true });
+$drawer.addEventListener("touchend", (e) => {
+  $drawer.style.transition = "";
+  const delta = e.changedTouches[0].clientY - swipeStartY;
+  $drawer.style.transform = "";
+  if (delta > 80) closeMenu();
+});
+
 // ── Init ──────────────────────────────────────────────────────────────────────
 if ("serviceWorker" in navigator) navigator.serviceWorker.register("sw.js");
 loadData();

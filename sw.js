@@ -1,11 +1,13 @@
-const CACHE = "rebolt-v2";
+const CACHE = "rebolt-v4";
 const ASSETS = [
   "./",
   "./index.html",
   "./app.js",
   "./style.css",
   "./manifest.json",
-  "./icons/fist.svg",
+  "./icons/bolt.svg",
+  "./icons/rk-logo-white.svg",
+  "./icons/rk-logo-dark.svg",
   "./data/routes.json",
 ];
 
