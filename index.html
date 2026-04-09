@@ -3,9 +3,9 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <meta name="theme-color" content="#0f1117" />
+  <meta name="theme-color" content="#000000" />
   <meta name="apple-mobile-web-app-capable" content="yes" />
-  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black" />
   <title>Rebolt Kalymnos</title>
   <link rel="manifest" href="manifest.json" />
   <link rel="stylesheet" href="style.css" />
@@ -13,9 +13,17 @@
 <body>
   <header>
     <div class="header-top">
-      <h1>Rebolt Kalymnos</h1>
+      <a href="https://reboltkalymnos.org" target="_blank" rel="noopener" class="logo-link">
+        <img src="https://reboltkalymnos.org/rk-logo-white.svg" alt="Rebolt Kalymnos" class="logo" />
+      </a>
       <span id="updated-badge" class="badge" hidden></span>
     </div>
+
+    <div class="action-row">
+      <a href="https://www.paypal.com/donate?hosted_button_id=KAPNTJCPV2BWA" target="_blank" rel="noopener" class="btn-action">Donate</a>
+      <a href="https://baserow.io/form/py5Vu2kY0YDMY1i7iO1_ddMspuyz7D48OJ7Urrvh0fY" target="_blank" rel="noopener" class="btn-action">Report an issue</a>
+    </div>
+
     <div class="search-row">
       <input
         id="search"
@@ -35,6 +43,11 @@
     <ul id="list" class="route-list" role="list"></ul>
     <p id="empty" class="empty" hidden>No routes match your search.</p>
   </main>
+
+  <footer>
+    <p>Data from <a href="https://reboltkalymnos.org/rebolt-log/" target="_blank" rel="noopener">reboltkalymnos.org</a> — maintained by the Rebolt Kalymnos team.</p>
+    <p>This app is an unofficial mobile view. All credit goes to the volunteers who do the work.</p>
+  </footer>
 
   <script src="app.js"></script>
 </body>
