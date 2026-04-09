@@ -35,6 +35,41 @@ function closeMenu() {
   $burger.setAttribute("aria-expanded", "false");
   $drawer.setAttribute("aria-hidden", "true");
 }
+// ── Android install prompt ────────────────────────────────────────────────────
+let deferredPrompt = null;
+const $btnInstall = document.getElementById("btn-install");
+
+window.addEventListener("beforeinstallprompt", (e) => {
+  e.preventDefault();
+  deferredPrompt = e;
+  $btnInstall.hidden = false;
+});
+$btnInstall.addEventListener("click", async () => {
+  if (!deferredPrompt) return;
+  deferredPrompt.prompt();
+  await deferredPrompt.userChoice;
+  deferredPrompt = null;
+  $btnInstall.hidden = true;
+});
+window.addEventListener("appinstalled", () => {
+  deferredPrompt = null;
+  $btnInstall.hidden = true;
+});
+
+// ── iOS install banner ────────────────────────────────────────────────────────
+const $iosBanner = document.getElementById("ios-banner");
+const $iosBannerClose = document.getElementById("ios-banner-close");
+const isIOS = /iphone|ipad|ipod/i.test(navigator.userAgent);
+const isStandalone = navigator.standalone === true;
+
+if (isIOS && !isStandalone && !localStorage.getItem("rk-install-dismissed")) {
+  setTimeout(() => { $iosBanner.hidden = false; }, 10000);
+}
+$iosBannerClose.addEventListener("click", () => {
+  $iosBanner.hidden = true;
+  localStorage.setItem("rk-install-dismissed", "1");
+});
+
 $burger.addEventListener("click", openMenu);
 $overlay.addEventListener("click", closeMenu);
 

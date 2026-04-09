@@ -56,6 +56,7 @@
   <div id="menu-drawer" class="menu-drawer" aria-hidden="true">
     <div class="menu-handle"></div>
     <div class="menu-actions">
+      <button id="btn-install" class="btn-action" hidden>Install App</button>
       <a href="https://www.paypal.com/donate?hosted_button_id=KAPNTJCPV2BWA" target="_blank" rel="noopener" class="btn-action">Donate</a>
       <a href="https://baserow.io/form/py5Vu2kY0YDMY1i7iO1_ddMspuyz7D48OJ7Urrvh0fY" target="_blank" rel="noopener" class="btn-action">Report an issue</a>
     </div>
@@ -67,6 +68,11 @@
       even without internet the last loaded data stays available.
     </p>
     <span id="menu-updated" class="menu-updated"></span>
+  </div>
+
+  <div id="ios-banner" class="ios-banner" hidden>
+    <span>Tippe auf <strong>⬆</strong> → <strong>Zum Home-Bildschirm</strong> für Offline-Nutzung</span>
+    <button id="ios-banner-close" aria-label="Schließen">✕</button>
   </div>
 
   <script src="app.js"></script>
