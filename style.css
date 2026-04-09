@@ -336,3 +336,40 @@ main {
   color: var(--muted);
   text-align: center;
 }
+
+/* ── Light mode ──────────────────────────────────────────────────────────── */
+@media (prefers-color-scheme: light) {
+  :root {
+    --bg: #f5f2ed;
+    --surface: #eae6df;
+    --surface2: #dedad2;
+    --border: rgba(0,0,0,0.09);
+    --accent: #3d6fa8;
+    --text: #1a1917;
+    --muted: rgba(26,25,23,0.45);
+  }
+
+  #search { border-color: rgba(0,0,0,0.15); }
+
+  .ac-item:active, .ac-item.ac-active { background: rgba(61,111,168,0.12); }
+
+  .ac-type--route { background: rgba(0,0,0,0.07); color: rgba(26,25,23,0.55); }
+
+  .chip--route, .chip--text {
+    background: rgba(0,0,0,0.06);
+    border-color: rgba(0,0,0,0.2);
+    color: rgba(26,25,23,0.75);
+  }
+
+  .chip-remove { background: rgba(0,0,0,0.1); }
+  .chip-remove:active { background: rgba(0,0,0,0.2); }
+
+  .crag  { color: rgba(26,25,23,0.4); }
+  .job   { color: rgba(26,25,23,0.7); }
+  .date  { color: rgba(26,25,23,0.4); }
+
+  .btn-action { border-color: rgba(0,0,0,0.4); }
+  .btn-action:active { background: #000; color: #fff; }
+
+  .menu-handle { background: rgba(0,0,0,0.15); }
+}
