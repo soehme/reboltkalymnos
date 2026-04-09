@@ -11,17 +11,15 @@
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
-  <header>
-    <div class="header-top">
-      <a href="https://reboltkalymnos.org" target="_blank" rel="noopener" class="logo-link">
-        <img src="https://reboltkalymnos.org/RK-fist-white.svg" alt="Rebolt Kalymnos" class="logo" />
-      </a>
-      <div class="header-title">
-        <span class="title-text">Rebolt Log</span>
-        <span id="updated-badge" class="badge" hidden></span>
-      </div>
-    </div>
+  <div class="hero">
+    <a href="https://reboltkalymnos.org" target="_blank" rel="noopener">
+      <img src="https://reboltkalymnos.org/RK-fist-white.svg" alt="Rebolt Kalymnos" class="logo" />
+    </a>
+    <span class="title-text">Rebolt Log</span>
+    <span id="updated-badge" class="badge" hidden></span>
+  </div>
 
+  <div class="search-bar">
     <div class="search-wrapper">
       <input
         id="search"
@@ -37,9 +35,8 @@
       />
       <ul id="autocomplete" class="autocomplete" role="listbox" hidden></ul>
     </div>
-
     <div id="chips" class="chips-row" role="group" aria-label="Active filters"></div>
-  </header>
+  </div>
 
   <main>
     <p id="status" class="status">Loading…</p>
