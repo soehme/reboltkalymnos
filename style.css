@@ -219,10 +219,6 @@ main {
 .card:not(:last-child) { border-bottom: 1px solid var(--border); }
 
 .card-meta {
-  display: flex;
-  justify-content: space-between;
-  align-items: baseline;
-  gap: 8px;
   margin-bottom: 2px;
 }
 
@@ -249,10 +245,17 @@ main {
   line-height: 1.3;
 }
 
+.job-row {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 10px;
+  margin-bottom: 3px;
+}
+
 .job {
   font-size: 13px;
   color: rgba(255,255,255,0.75);
-  margin-bottom: 3px;
 }
 
 .hardware {
