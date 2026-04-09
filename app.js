@@ -30,7 +30,9 @@ async function loadData() {
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
     const json = await res.json();
 
-    allRoutes = json.routes.sort((a, b) => b.dateSort.localeCompare(a.dateSort));
+    allRoutes = json.routes.sort((a, b) =>
+      a.crag.localeCompare(b.crag) || a.route.localeCompare(b.route)
+    );
 
     allRoutes.forEach((r) => {
       allCrags.add(r.crag);
