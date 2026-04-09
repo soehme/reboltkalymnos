@@ -6,7 +6,7 @@
   <meta name="theme-color" content="#000000" />
   <meta name="apple-mobile-web-app-capable" content="yes" />
   <meta name="apple-mobile-web-app-status-bar-style" content="black" />
-  <title>Rebolt Kalymnos</title>
+  <title>Rebolt Log · Kalymnos</title>
   <link rel="manifest" href="manifest.json" />
   <link rel="stylesheet" href="style.css" />
 </head>
@@ -16,25 +16,29 @@
       <a href="https://reboltkalymnos.org" target="_blank" rel="noopener" class="logo-link">
         <img src="https://reboltkalymnos.org/rk-logo-white.svg" alt="Rebolt Kalymnos" class="logo" />
       </a>
-      <span id="updated-badge" class="badge" hidden></span>
+      <div class="header-title">
+        <span class="title-text">Rebolt Log</span>
+        <span id="updated-badge" class="badge" hidden></span>
+      </div>
     </div>
 
-    <div class="action-row">
-      <a href="https://www.paypal.com/donate?hosted_button_id=KAPNTJCPV2BWA" target="_blank" rel="noopener" class="btn-action">Donate</a>
-      <a href="https://baserow.io/form/py5Vu2kY0YDMY1i7iO1_ddMspuyz7D48OJ7Urrvh0fY" target="_blank" rel="noopener" class="btn-action">Report an issue</a>
-    </div>
-
-    <div class="search-row">
+    <div class="search-wrapper">
       <input
         id="search"
         type="search"
-        placeholder="Search crag or route…"
+        placeholder="Search crags, routes…"
         autocomplete="off"
         autocorrect="off"
         spellcheck="false"
+        role="combobox"
+        aria-expanded="false"
+        aria-controls="autocomplete"
+        aria-haspopup="listbox"
       />
+      <ul id="autocomplete" class="autocomplete" role="listbox" hidden></ul>
     </div>
-    <div id="crag-filters" class="chip-row" role="group" aria-label="Filter by crag"></div>
+
+    <div id="chips" class="chips-row" role="group" aria-label="Active filters"></div>
   </header>
 
   <main>
@@ -45,8 +49,13 @@
   </main>
 
   <footer>
-    <p>Data from <a href="https://reboltkalymnos.org/rebolt-log/" target="_blank" rel="noopener">reboltkalymnos.org</a> — maintained by the Rebolt Kalymnos team.</p>
-    <p>This app is an unofficial mobile view. All credit goes to the volunteers who do the work.</p>
+    <div class="footer-actions">
+      <a href="https://www.paypal.com/donate?hosted_button_id=KAPNTJCPV2BWA" target="_blank" rel="noopener" class="btn-action">Donate</a>
+      <a href="https://baserow.io/form/py5Vu2kY0YDMY1i7iO1_ddMspuyz7D48OJ7Urrvh0fY" target="_blank" rel="noopener" class="btn-action">Report an issue</a>
+    </div>
+    <p class="footer-credit">
+      Data from <a href="https://reboltkalymnos.org/rebolt-log/" target="_blank" rel="noopener">reboltkalymnos.org</a> — maintained by the Rebolt Kalymnos volunteers. This is an unofficial mobile view.
+    </p>
   </footer>
 
   <script src="app.js"></script>
