@@ -11,15 +11,15 @@
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
-  <div class="hero">
-    <a href="https://reboltkalymnos.org" target="_blank" rel="noopener">
-      <img src="https://reboltkalymnos.org/RK-fist-white.svg" alt="Rebolt Kalymnos" class="logo" />
-    </a>
-    <span class="title-text">Rebolt Log</span>
-    <span id="updated-badge" class="badge" hidden></span>
-  </div>
-
-  <div class="search-bar">
+  <header>
+    <div class="header-row">
+      <a href="https://reboltkalymnos.org" target="_blank" rel="noopener">
+        <img src="https://reboltkalymnos.org/rk-logo-white.svg" alt="Rebolt Kalymnos" class="logo" />
+      </a>
+      <button id="burger" class="burger" aria-label="Menu" aria-expanded="false">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
     <div class="search-wrapper">
       <input
         id="search"
@@ -36,7 +36,7 @@
       <ul id="autocomplete" class="autocomplete" role="listbox" hidden></ul>
     </div>
     <div id="chips" class="chips-row" role="group" aria-label="Active filters"></div>
-  </div>
+  </header>
 
   <main>
     <p id="status" class="status">Loading…</p>
@@ -45,15 +45,21 @@
     <p id="empty" class="empty" hidden>No routes match your search.</p>
   </main>
 
-  <footer>
-    <div class="footer-actions">
+  <!-- Burger menu -->
+  <div id="menu-overlay" class="menu-overlay" hidden></div>
+  <div id="menu-drawer" class="menu-drawer" aria-hidden="true">
+    <div class="menu-handle"></div>
+    <div class="menu-actions">
       <a href="https://www.paypal.com/donate?hosted_button_id=KAPNTJCPV2BWA" target="_blank" rel="noopener" class="btn-action">Donate</a>
       <a href="https://baserow.io/form/py5Vu2kY0YDMY1i7iO1_ddMspuyz7D48OJ7Urrvh0fY" target="_blank" rel="noopener" class="btn-action">Report an issue</a>
     </div>
-    <p class="footer-credit">
-      Data from <a href="https://reboltkalymnos.org/rebolt-log/" target="_blank" rel="noopener">reboltkalymnos.org</a> — maintained by the Rebolt Kalymnos volunteers. This is an unofficial mobile view.
+    <p class="menu-credit">
+      Data from <a href="https://reboltkalymnos.org/rebolt-log/" target="_blank" rel="noopener">reboltkalymnos.org</a><br>
+      Maintained by the Rebolt Kalymnos volunteers.<br>
+      This is an unofficial mobile view.
     </p>
-  </footer>
+    <span id="menu-updated" class="menu-updated"></span>
+  </div>
 
   <script src="app.js"></script>
 </body>

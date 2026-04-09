@@ -8,16 +8,35 @@ let allRouteNames = new Set();
 let activeTerms = []; // array of { label, type: 'crag'|'route'|'text' }
 
 // ── DOM refs ──────────────────────────────────────────────────────────────────
-const $search     = document.getElementById("search");
+const $search       = document.getElementById("search");
 const $autocomplete = document.getElementById("autocomplete");
-const $chips      = document.getElementById("chips");
-const $list       = document.getElementById("list");
-const $status     = document.getElementById("status");
-const $count      = document.getElementById("count");
-const $empty      = document.getElementById("empty");
-const $badge      = document.getElementById("updated-badge");
+const $chips        = document.getElementById("chips");
+const $list         = document.getElementById("list");
+const $status       = document.getElementById("status");
+const $count        = document.getElementById("count");
+const $empty        = document.getElementById("empty");
+const $burger       = document.getElementById("burger");
+const $overlay      = document.getElementById("menu-overlay");
+const $drawer       = document.getElementById("menu-drawer");
+const $menuUpdated  = document.getElementById("menu-updated");
 
-let acIndex = -1; // keyboard-selected autocomplete item
+let acIndex = -1;
+
+// ── Burger menu ───────────────────────────────────────────────────────────────
+function openMenu() {
+  $overlay.hidden = false;
+  $drawer.classList.add("open");
+  $burger.setAttribute("aria-expanded", "true");
+  $drawer.setAttribute("aria-hidden", "false");
+}
+function closeMenu() {
+  $overlay.hidden = true;
+  $drawer.classList.remove("open");
+  $burger.setAttribute("aria-expanded", "false");
+  $drawer.setAttribute("aria-hidden", "true");
+}
+$burger.addEventListener("click", openMenu);
+$overlay.addEventListener("click", closeMenu);
 
 // ── Init ──────────────────────────────────────────────────────────────────────
 if ("serviceWorker" in navigator) navigator.serviceWorker.register("sw.js");
@@ -41,8 +60,7 @@ async function loadData() {
 
     if (json.updated) {
       const d = new Date(json.updated);
-      $badge.textContent = d.toLocaleDateString("en-GB", { day: "numeric", month: "short", year: "numeric" });
-      $badge.hidden = false;
+      $menuUpdated.textContent = `Updated ${d.toLocaleDateString("en-GB", { day: "numeric", month: "short", year: "numeric" })}`;
     }
 
     $status.hidden = true;
