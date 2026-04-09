@@ -1,0 +1,5582 @@
+{
+  "updated": "2026-04-09T19:58:13Z",
+  "count": 697,
+  "routes": [
+    {
+      "crag": "AFTERNOON",
+      "route": "TSOPANAKOS",
+      "job": "Fully rebolted; loose flake cleaned",
+      "hardware": "Stainless Steel Expansion 316L Marine",
+      "date": "October 2022",
+      "dateSort": "2022-10"
+    },
+    {
+      "crag": "AFTERNOON",
+      "route": "BYE BYE DOC",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "AFTERNOON",
+      "route": "JANA'S KITCHEN",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "AFTERNOON",
+      "route": "ASKLIPIOS",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "AFTERNOON",
+      "route": "PANAKIA",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "AFTERNOON",
+      "route": "MY LONG HOLIDAY",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "AFTERNOON",
+      "route": "ARATUS",
+      "job": "New anchor; extra bolts added",
+      "hardware": "Stainless Steel Expansion 316L Marine",
+      "date": "2019",
+      "dateSort": "2019-00"
+    },
+    {
+      "crag": "AFTERNOON",
+      "route": "HARRY ZONA EXT",
+      "job": "New anchor",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "2024",
+      "dateSort": "2024-00"
+    },
+    {
+      "crag": "AFTERNOON",
+      "route": "MORTEAU RICO",
+      "job": "New anchor",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "2024",
+      "dateSort": "2024-00"
+    },
+    {
+      "crag": "AFTERNOON",
+      "route": "SWISS BABY",
+      "job": "New anchor",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "2024",
+      "dateSort": "2024-00"
+    },
+    {
+      "crag": "AFTERNOON",
+      "route": "LADY IN BLACK",
+      "job": "New anchor",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "2024",
+      "dateSort": "2024-00"
+    },
+    {
+      "crag": "AFTERNOON",
+      "route": "TSOPANAKOS EXT",
+      "job": "New anchor",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "2024",
+      "dateSort": "2024-00"
+    },
+    {
+      "crag": "AFTERNOON",
+      "route": "CLAIRE",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Expansion 316L Marine",
+      "date": "2023",
+      "dateSort": "2023-00"
+    },
+    {
+      "crag": "AGHIOS MAMAS",
+      "route": "BURGER & BEER",
+      "job": "Cleaned loose rock",
+      "hardware": "",
+      "date": "2023",
+      "dateSort": "2023-00"
+    },
+    {
+      "crag": "AGHIOS MAMAS",
+      "route": "FIXED ROPE ACCESS",
+      "job": "New rope fixed for access between sub-sectors",
+      "hardware": "",
+      "date": "2023",
+      "dateSort": "2023-00"
+    },
+    {
+      "crag": "ARGINONTA",
+      "route": "PAPAGALOS",
+      "job": "Anchor biners added/replaced",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "August 2025",
+      "dateSort": "2025-08"
+    },
+    {
+      "crag": "ARGINONTA",
+      "route": "64 YOU 6B",
+      "job": "Anchor biners added/replaced",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "August 2025",
+      "dateSort": "2025-08"
+    },
+    {
+      "crag": "ARGINONTA",
+      "route": "BOUBOULINA",
+      "job": "Anchor biners added/replaced",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "August 2025",
+      "dateSort": "2025-08"
+    },
+    {
+      "crag": "ARGINONTA",
+      "route": "NO BLABLA, DO IT!",
+      "job": "Anchor biners added/replaced",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "October 2025",
+      "dateSort": "2025-10"
+    },
+    {
+      "crag": "ARGINONTA",
+      "route": "BLOOD SPORT",
+      "job": "Anchor biners added/replaced, two extra bolts added",
+      "hardware": "Stainless Steel Expansion 316L Marine",
+      "date": "August 2025",
+      "dateSort": "2025-08"
+    },
+    {
+      "crag": "ARGINONTA",
+      "route": "HOT SHOT",
+      "job": "Anchor corrected/moved",
+      "hardware": "",
+      "date": "August 2025",
+      "dateSort": "2025-08"
+    },
+    {
+      "crag": "ARGINONTA",
+      "route": "GOD IS LEMMY",
+      "job": "Anchor corrected/moved",
+      "hardware": "",
+      "date": "August 2025",
+      "dateSort": "2025-08"
+    },
+    {
+      "crag": "ARGINONTA",
+      "route": "LYSISTRATI",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Expansion 316L Marine",
+      "date": "May 2025",
+      "dateSort": "2025-05"
+    },
+    {
+      "crag": "ARGINONTA",
+      "route": "ORESTEIA",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Expansion 316L Marine",
+      "date": "May 2025",
+      "dateSort": "2025-05"
+    },
+    {
+      "crag": "ARGINONTA",
+      "route": "OMG GUYS!",
+      "job": "Loose blocks removed",
+      "hardware": "",
+      "date": "August 2025",
+      "dateSort": "2025-08"
+    },
+    {
+      "crag": "ARGINONTA",
+      "route": "GOD IS LEMMY / PAPAGALOS",
+      "job": "Loose blocks removed between two routes",
+      "hardware": "",
+      "date": "August 2025",
+      "dateSort": "2025-08"
+    },
+    {
+      "crag": "ARGINONTA",
+      "route": "NO SLEEP 'TIL HAMMERSMITH",
+      "job": "Cleaned loose block",
+      "hardware": "",
+      "date": "2019",
+      "dateSort": "2019-00"
+    },
+    {
+      "crag": "ARGINONTA",
+      "route": "CLEAN",
+      "job": "New anchor",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "2019",
+      "dateSort": "2019-00"
+    },
+    {
+      "crag": "ARGINONTA",
+      "route": "KATHARINA",
+      "job": "New anchor",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "2019",
+      "dateSort": "2019-00"
+    },
+    {
+      "crag": "ARGINONTA",
+      "route": "VICTORIA",
+      "job": "New anchor",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "2019",
+      "dateSort": "2019-00"
+    },
+    {
+      "crag": "ARGINONTA",
+      "route": "SHARK BITE",
+      "job": "New anchor",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "2019",
+      "dateSort": "2019-00"
+    },
+    {
+      "crag": "ARGINONTA",
+      "route": "MISSING LINK",
+      "job": "New anchor",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "2019",
+      "dateSort": "2019-00"
+    },
+    {
+      "crag": "ARGINONTA",
+      "route": "KATERGO",
+      "job": "New anchor",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "2020",
+      "dateSort": "2020-00"
+    },
+    {
+      "crag": "ARGINONTA",
+      "route": "LEMMY FOR PRESIDENT",
+      "job": "New anchor",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "2020",
+      "dateSort": "2020-00"
+    },
+    {
+      "crag": "ARGINONTA",
+      "route": "BIRDS WITHOUT ARMS",
+      "job": "New anchor",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "2020",
+      "dateSort": "2020-00"
+    },
+    {
+      "crag": "ARGINONTA",
+      "route": "BIRDS WITHOUT ARMS EXT",
+      "job": "New anchor",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "2020",
+      "dateSort": "2020-00"
+    },
+    {
+      "crag": "ARGINONTA",
+      "route": "TE POSSINO",
+      "job": "Cleaned loose rock",
+      "hardware": "",
+      "date": "2024",
+      "dateSort": "2024-00"
+    },
+    {
+      "crag": "ARGINONTA",
+      "route": "XAVERI",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "ARGINONTA",
+      "route": "SEXY",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "ARGINONTA",
+      "route": "HOT SHOT",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "ARGINONTA",
+      "route": "BLOOD SPORT",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "ARGINONTA",
+      "route": "BOUBOULINA",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "ARGINONTA",
+      "route": "KOUBINOS",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "ARGINONTA",
+      "route": "MERCI",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "ARGINONTA",
+      "route": "PORNOKINI",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "ARGINONTA",
+      "route": "KOSMAS",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "ARGINONTA",
+      "route": "FREE STYLE",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "ARGINONTA",
+      "route": "WILD SEX",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "ARGINONTA",
+      "route": "BÔRHOK",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "ARGINONTA",
+      "route": "CAP ARVITHIS",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "ARGINONTA",
+      "route": "BARBA YORGHOS",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "ARGINONTA",
+      "route": "ANNA-MARIA",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "ARGINONTA",
+      "route": "MOTÖRHEAD",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "ARGINONTA",
+      "route": "NO SLEEP 'TIL HAMMERSMITH",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "ARGINONTA",
+      "route": "ROMANCE OF STONE",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "ARGINONTA",
+      "route": "PAPOU",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "ARGINONTA",
+      "route": "FOR SUE AND STEVE",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "ARGINONTA",
+      "route": "MISSING LINK",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "ARGINONTA",
+      "route": "SHARK BITE",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "ARGINONTA",
+      "route": "STOCK FISH",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "ARGINONTA",
+      "route": "CLEAN",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "ARGINONTA",
+      "route": "KATHARINA",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "ARGINONTA",
+      "route": "VICTORIA",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "ARGINONTA",
+      "route": "TUFA SLAB",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "ARGINONTA",
+      "route": "MIKE'S RESCUE",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "ARGINONTA",
+      "route": "LOUKOUMADES",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "ARGINONTA",
+      "route": "ADONIBERT",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "ARGINONTA",
+      "route": "ASCHE ZU ASCHE",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "ARGINONTA",
+      "route": "KEL KARMA",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "ARGINONTA",
+      "route": "AVRI",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "ARGINONTA",
+      "route": "KOLHINET KAFHOUILLE",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "ARGINONTA",
+      "route": "AND NOW FOR SOMETHING COMPLETELY DIFFERENT",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "ARGINONTA",
+      "route": "CLIMATE CHANGE",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "ARGINONTA",
+      "route": "ALBI BAK",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "ARGINONTA",
+      "route": "CODE QUANTUM",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "ARGINONTA",
+      "route": "RED SEA SECRETS",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "ARGINONTA",
+      "route": "FIRE WALL",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "ARGINONTA",
+      "route": "HARD PRIMAL",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "ARGINONTA SKYLINE",
+      "route": "KRAFTREAKTOR",
+      "job": "Loose flakes removed",
+      "hardware": "",
+      "date": "2023",
+      "dateSort": "2023-00"
+    },
+    {
+      "crag": "ARGINONTA VALLEY",
+      "route": "RHYTHM OF THE RAIN",
+      "job": "Anchor biners added/replaced",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "May 2024",
+      "dateSort": "2024-05"
+    },
+    {
+      "crag": "ARGINONTA VALLEY",
+      "route": "AD-HOC",
+      "job": "Anchor biners added/replaced",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "May 2024",
+      "dateSort": "2024-05"
+    },
+    {
+      "crag": "ARGINONTA VALLEY",
+      "route": "LE BLUE DU CIEL",
+      "job": "Anchor biners added/replaced",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "May 2024",
+      "dateSort": "2024-05"
+    },
+    {
+      "crag": "ARGINONTA VALLEY",
+      "route": "ROCK N ROLL CAVE VIA FERRATA",
+      "job": "Via ferrata steps added for access to terrace",
+      "hardware": "",
+      "date": "2020",
+      "dateSort": "2020-00"
+    },
+    {
+      "crag": "ARGINONTA VALLEY",
+      "route": "LA PAZ",
+      "job": "Replaced missing bolt with two on better rock",
+      "hardware": "Stainless Steel Expansion 316L Marine",
+      "date": "2024",
+      "dateSort": "2024-00"
+    },
+    {
+      "crag": "ARGINONTA VALLEY",
+      "route": "AHTARMAS",
+      "job": "Anchor biners added/replaced",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "May 2025",
+      "dateSort": "2025-05"
+    },
+    {
+      "crag": "ARGINONTA VALLEY",
+      "route": "ALANI",
+      "job": "Anchor biners added/replaced",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "May 2025",
+      "dateSort": "2025-05"
+    },
+    {
+      "crag": "ARGINONTA VALLEY",
+      "route": "RHYTHM OF THE RAIN",
+      "job": "Anchor biners added/replaced",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "May 2025",
+      "dateSort": "2025-05"
+    },
+    {
+      "crag": "ARGINONTA VALLEY",
+      "route": "GABRIELE SALVATORES",
+      "job": "Anchor biners added/replaced",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "October 2025",
+      "dateSort": "2025-10"
+    },
+    {
+      "crag": "ARGINONTA VALLEY",
+      "route": "SAGGIO MELUSKA",
+      "job": "Anchor biners added/replaced",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "October 2025",
+      "dateSort": "2025-10"
+    },
+    {
+      "crag": "ARGINONTA VALLEY",
+      "route": "RELISAKI",
+      "job": "Anchor biners added/replaced",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "October 2025",
+      "dateSort": "2025-10"
+    },
+    {
+      "crag": "ARGINONTA VALLEY",
+      "route": "HIPPOCRATES",
+      "job": "Anchor biners added/replaced",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "August 2025",
+      "dateSort": "2025-08"
+    },
+    {
+      "crag": "ARGINONTA VALLEY",
+      "route": "ALANI",
+      "job": "Anchor biners added/replaced",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "August 2025",
+      "dateSort": "2025-08"
+    },
+    {
+      "crag": "ARGINONTA VALLEY",
+      "route": "IDOINE",
+      "job": "Anchor biners added/replaced",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "August 2025",
+      "dateSort": "2025-08"
+    },
+    {
+      "crag": "ARGINONTA VALLEY",
+      "route": "GASTECLOU",
+      "job": "Anchor biners added/replaced",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "August 2025",
+      "dateSort": "2025-08"
+    },
+    {
+      "crag": "ARGINONTA VALLEY",
+      "route": "L'ENGEANCE",
+      "job": "Anchor biners added/replaced",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "July 2025",
+      "dateSort": "2025-07"
+    },
+    {
+      "crag": "ARGINONTA VALLEY",
+      "route": "BANCROCHE",
+      "job": "Anchor biners added/replaced",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "July 2025",
+      "dateSort": "2025-07"
+    },
+    {
+      "crag": "ARGINONTA VALLEY",
+      "route": "PIMOUSSE",
+      "job": "Anchor biners added/replaced",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "July 2025",
+      "dateSort": "2025-07"
+    },
+    {
+      "crag": "ARGINONTA VALLEY",
+      "route": "CHAUSSE-TRAPPE",
+      "job": "Anchor biners added/replaced",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "July 2025",
+      "dateSort": "2025-07"
+    },
+    {
+      "crag": "ARGINONTA VALLEY",
+      "route": "THUNDER ROAD",
+      "job": "Bolts inspected and tightened",
+      "hardware": "",
+      "date": "May 2025",
+      "dateSort": "2025-05"
+    },
+    {
+      "crag": "ARGINONTA VALLEY",
+      "route": "JASMINE",
+      "job": "Bolts inspected and tightened",
+      "hardware": "",
+      "date": "May 2025",
+      "dateSort": "2025-05"
+    },
+    {
+      "crag": "ARGINONTA VALLEY",
+      "route": "IDOINE",
+      "job": "Loose block removed",
+      "hardware": "",
+      "date": "December 2025",
+      "dateSort": "2025-12"
+    },
+    {
+      "crag": "ARGINONTA VALLEY",
+      "route": "LE POTE ÂGE",
+      "job": "Separate anchor added",
+      "hardware": "",
+      "date": "May 2025",
+      "dateSort": "2025-05"
+    },
+    {
+      "crag": "ARGINONTA VALLEY",
+      "route": "VIA FERRATA (APPROACH)",
+      "job": "Via ferrata rungs installed (far right)",
+      "hardware": "",
+      "date": "December 2025",
+      "dateSort": "2025-12"
+    },
+    {
+      "crag": "ARHI",
+      "route": "MAMMIFÈRE VIBES",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Expansion 316L Marine",
+      "date": "May 2025",
+      "dateSort": "2025-05"
+    },
+    {
+      "crag": "ARHI",
+      "route": "NE PAS TOUCHER À MA BITE",
+      "job": "Partially rebolted (all bolts after common start with EROS)",
+      "hardware": "Stainless Steel Expansion 316L Marine",
+      "date": "April 2024",
+      "dateSort": "2024-04"
+    },
+    {
+      "crag": "ARHI",
+      "route": "ZIWI",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "ARHI",
+      "route": "ERCOLE",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In and Expansion 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "ARHI",
+      "route": "CENTAURO",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "ARHI",
+      "route": "PEGASO",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "ARHI",
+      "route": "TESEO",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "ARHI",
+      "route": "BLACK SNAKE",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "ARHI",
+      "route": "ARGONAUTI",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "ARHI",
+      "route": "ARGONAUTI EXT",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "ARHI",
+      "route": "SCACCO",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Expansion 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "ARHI",
+      "route": "PARES",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Expansion 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "ARHI",
+      "route": "DEIMOS",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "ARHI",
+      "route": "PHOBOS",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "ARHI",
+      "route": "SMALL FISH",
+      "job": "Partially rebolted",
+      "hardware": "Stainless Steel Expansion and Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "ARHI",
+      "route": "CARONTE",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Expansion 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "ARHI",
+      "route": "ARIANNA",
+      "job": "Partially rebolted",
+      "hardware": "Stainless Steel Expansion 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "ARHI",
+      "route": "OPTASIA",
+      "job": "Partially rebolted",
+      "hardware": "Stainless Steel Expansion 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "ARHI",
+      "route": "LOS ROCOS DI CANTALOS",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "ARHI",
+      "route": "LOS ROCOS DI CANTALOS EXT",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "ARHI",
+      "route": "ORGASME MINÉRAL",
+      "job": "Partially rebolted",
+      "hardware": "Stainless Steel Expansion and Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "ARHI",
+      "route": "ORGASME MINÉRAL EXT",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "ARHI",
+      "route": "KALYMNOSTROBE",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "ARHI",
+      "route": "KALYMNOSTROBE EXT",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "ARHI",
+      "route": "TAKOPOULOS",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "ARHI",
+      "route": "GIORGIO DE LA JUNGLE",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "ARHI",
+      "route": "GIORGIO DE LA JUNGLE EXT",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "ARHI",
+      "route": "MAMMIFERE VIBES",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Expansion 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "ARHI",
+      "route": "MAMMIFERE VIBES EXT",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "ARHI",
+      "route": "KASTOR",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "2025",
+      "dateSort": "2025-00"
+    },
+    {
+      "crag": "ARHI",
+      "route": "IL PITTORE",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "ARHI",
+      "route": "THETIS",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "ARHI",
+      "route": "ORIONE",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "ARHI",
+      "route": "DEDALO",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "BELGIAN CHOCOLATES",
+      "route": "EWA",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "BELGIAN CHOCOLATES",
+      "route": "DODO",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "BELGIAN CHOCOLATES",
+      "route": "ROCK SHRIMPS",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "BELGIAN CHOCOLATES",
+      "route": "SHARP THINGS",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "BELGIAN CHOCOLATES",
+      "route": "STRANGE TREE",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "BELGIAN CHOCOLATES",
+      "route": "RED SPOT",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "BELGIAN CHOCOLATES",
+      "route": "BEAVER'S BOLTS",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "BELGIAN CHOCOLATES",
+      "route": "FARON",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "BELGIAN CHOCOLATES",
+      "route": "JOLLI",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "BIG SHADOW",
+      "route": "TAUPE THE ROPE",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Expansion 316L Marine",
+      "date": "2021",
+      "dateSort": "2021-00"
+    },
+    {
+      "crag": "BIG SHADOW",
+      "route": "COSI",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Expansion 316L Marine",
+      "date": "2021",
+      "dateSort": "2021-00"
+    },
+    {
+      "crag": "BIG SHADOW",
+      "route": "GRIM",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Expansion 316L Marine",
+      "date": "2021",
+      "dateSort": "2021-00"
+    },
+    {
+      "crag": "BIG SHADOW",
+      "route": "GRIM EXT",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Expansion 316L Marine",
+      "date": "2021",
+      "dateSort": "2021-00"
+    },
+    {
+      "crag": "BIG SHADOW",
+      "route": "DIRECTOS",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Expansion 316L Marine",
+      "date": "2021",
+      "dateSort": "2021-00"
+    },
+    {
+      "crag": "BIG SHADOW",
+      "route": "VICKING",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Expansion 316L Marine",
+      "date": "2021",
+      "dateSort": "2021-00"
+    },
+    {
+      "crag": "BIG SHADOW",
+      "route": "MIMIKRI",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Expansion 316L Marine",
+      "date": "2021",
+      "dateSort": "2021-00"
+    },
+    {
+      "crag": "BIG SHADOW",
+      "route": "CACOU",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Expansion 316L Marine",
+      "date": "2021",
+      "dateSort": "2021-00"
+    },
+    {
+      "crag": "BIG SHADOW",
+      "route": "METRALOS",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Expansion 316L Marine",
+      "date": "2021",
+      "dateSort": "2021-00"
+    },
+    {
+      "crag": "CAVE",
+      "route": "SAROMAN",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Expansion 316L Marine",
+      "date": "2020",
+      "dateSort": "2020-00"
+    },
+    {
+      "crag": "CAVE",
+      "route": "SASCHA ON THE ROAD",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Expansion 316L Marine",
+      "date": "2020",
+      "dateSort": "2020-00"
+    },
+    {
+      "crag": "CAVE",
+      "route": "ZIZANIE",
+      "job": "Replaced two anchor bolts and two crux bolts",
+      "hardware": "Stainless Steel Expansion 316L Marine",
+      "date": "2024",
+      "dateSort": "2024-00"
+    },
+    {
+      "crag": "CAVE",
+      "route": "TITINE",
+      "job": "Cleaned loose rock",
+      "hardware": "",
+      "date": "2022",
+      "dateSort": "2022-00"
+    },
+    {
+      "crag": "CŒUR D'ARMEOS",
+      "route": "SCROGNEUGNEU",
+      "job": "Loose blocks removed",
+      "hardware": "",
+      "date": "October 2025",
+      "dateSort": "2025-10"
+    },
+    {
+      "crag": "CŒUR D'ARMEOS",
+      "route": "SNOUF",
+      "job": "Loose blocks removed",
+      "hardware": "",
+      "date": "",
+      "dateSort": "0000-00"
+    },
+    {
+      "crag": "CŒUR D'ARMEOS",
+      "route": "BAR BAR",
+      "job": "Missing hanger replaced",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "November 2025",
+      "dateSort": "2025-11"
+    },
+    {
+      "crag": "DOLPHIN BAY",
+      "route": "SALTED JOINT",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "DOLPHIN BAY",
+      "route": "TOO FAT FOR TUFAS",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "DOLPHIN BAY",
+      "route": "ROUFOS",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "DOLPHIN BAY",
+      "route": "LAVRAKI",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "DOLPHIN BAY",
+      "route": "SMINERI",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "DOLPHIN BAY",
+      "route": "KAVOURAS",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "DOLPHIN BAY",
+      "route": "KALYMNIAN LIGHTNING",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "DOLPHIN BAY",
+      "route": "BARBOUNI",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "DOLPHIN BAY",
+      "route": "BLOOMING",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "DOLPHIN BAY",
+      "route": "IRIS PRODUCTION",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "DOLPHIN BAY",
+      "route": "FLIPPER",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "DOLPHIN BAY",
+      "route": "PALAMIDA",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "DOLPHIN BAY",
+      "route": "KOUTSOMOURA",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "DOLPHIN BAY",
+      "route": "TSIPOURA",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "DOLPHIN BAY",
+      "route": "SIGA SIGA",
+      "job": "New anchor",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "2022",
+      "dateSort": "2022-00"
+    },
+    {
+      "crag": "GAMOS / WHITE SPIRIT",
+      "route": "LES PIEDS DANS LE PLAT",
+      "job": "Anchor biners added/replaced",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "July 2025",
+      "dateSort": "2025-07"
+    },
+    {
+      "crag": "GAMOS / WHITE SPIRIT",
+      "route": "OUZOMANIAC",
+      "job": "Anchor biners added/replaced",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "July 2025",
+      "dateSort": "2025-07"
+    },
+    {
+      "crag": "GAMOS / WHITE SPIRIT",
+      "route": "DROSSOS AVEC LE POING",
+      "job": "Anchor biners added/replaced",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "July 2025",
+      "dateSort": "2025-07"
+    },
+    {
+      "crag": "GAMOS / WHITE SPIRIT",
+      "route": "OMO LAVE PLUS BLANC",
+      "job": "Anchor biners added/replaced",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "July 2025",
+      "dateSort": "2025-07"
+    },
+    {
+      "crag": "GAMOS / WHITE SPIRIT",
+      "route": "HAUT ET COURT",
+      "job": "Anchor biners added/replaced",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "July 2025",
+      "dateSort": "2025-07"
+    },
+    {
+      "crag": "GAMOS / WHITE SPIRIT",
+      "route": "CHUTE LIBRE",
+      "job": "Anchor biners added/replaced",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "July 2025",
+      "dateSort": "2025-07"
+    },
+    {
+      "crag": "GAMOS / WHITE SPIRIT",
+      "route": "L'AIR AMÈRE",
+      "job": "Anchor biners added/replaced",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "August 2025",
+      "dateSort": "2025-08"
+    },
+    {
+      "crag": "GAMOS / WHITE SPIRIT",
+      "route": "POINT DU FUITE",
+      "job": "Anchor biners added/replaced",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "July 2025",
+      "dateSort": "2025-07"
+    },
+    {
+      "crag": "GAMOS / WHITE SPIRIT",
+      "route": "GOLD RUSH",
+      "job": "Anchor biners added/replaced",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "October 2025",
+      "dateSort": "2025-10"
+    },
+    {
+      "crag": "GAMOS / WHITE SPIRIT",
+      "route": "LARGUER LES AMOURS",
+      "job": "Anchor biners added/replaced",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "October 2025",
+      "dateSort": "2025-10"
+    },
+    {
+      "crag": "GAMOS / WHITE SPIRIT",
+      "route": "LES DOIGTS DANS LE NEZ",
+      "job": "Anchor biners added/replaced",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "October 2025",
+      "dateSort": "2025-10"
+    },
+    {
+      "crag": "GAMOS / WHITE SPIRIT",
+      "route": "BOIS SANS SOIF",
+      "job": "Anchor biners added/replaced, three bolts added/corrected",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "July 2025",
+      "dateSort": "2025-07"
+    },
+    {
+      "crag": "GERAKIOS",
+      "route": "RITA RITA",
+      "job": "New anchor",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "October 2023",
+      "dateSort": "2023-10"
+    },
+    {
+      "crag": "GERAKIOS",
+      "route": "DRIL",
+      "job": "New anchor",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "October 2023",
+      "dateSort": "2023-10"
+    },
+    {
+      "crag": "GERAKIOS",
+      "route": "READER",
+      "job": "Cleaned loose rock",
+      "hardware": "",
+      "date": "2022",
+      "dateSort": "2022-00"
+    },
+    {
+      "crag": "GERAKIOS",
+      "route": "DRILL",
+      "job": "New anchor",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "2023",
+      "dateSort": "2023-00"
+    },
+    {
+      "crag": "GERAKIOS",
+      "route": "PITA-RITA",
+      "job": "New anchor",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "2023",
+      "dateSort": "2023-00"
+    },
+    {
+      "crag": "GRANDE GROTTA",
+      "route": "ELEFANTENHIMMEL PART 1",
+      "job": "Bolting corrected, new anchor",
+      "hardware": "Stainless Steel Expansion 316L Marine",
+      "date": "September 2025",
+      "dateSort": "2025-09"
+    },
+    {
+      "crag": "GRANDE GROTTA",
+      "route": "MASSALIA",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Expansion 316L Marine",
+      "date": "May 2025",
+      "dateSort": "2025-05"
+    },
+    {
+      "crag": "GRANDE GROTTA",
+      "route": "HAPPY GIRLFRIEND",
+      "job": "Partially rebolted",
+      "hardware": "Stainless Steel Expansion 316L Marine",
+      "date": "September 2025",
+      "dateSort": "2025-09"
+    },
+    {
+      "crag": "GRANDE GROTTA",
+      "route": "MONAHIKI ELIA",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "GRANDE GROTTA",
+      "route": "TAZ",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "GRANDE GROTTA",
+      "route": "KALYPIGE",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "GRANDE GROTTA",
+      "route": "PRIAPOS",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "GRANDE GROTTA",
+      "route": "SUPER PRIAPOS",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "GRANDE GROTTA",
+      "route": "TRELA",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "GRANDE GROTTA",
+      "route": "ELEFANTENHIMMEL PART 1",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "GRANDE GROTTA",
+      "route": "ELEFANTENHIMMEL",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "GRANDE GROTTA",
+      "route": "AEGIALIS",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "GRANDE GROTTA",
+      "route": "ZAWINUL SYNDICATE",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "GRANDE GROTTA",
+      "route": "AFRODITE",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "GRANDE GROTTA",
+      "route": "DNA",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "GRANDE GROTTA",
+      "route": "IVI",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "GRANDE GROTTA",
+      "route": "TUFANTASTIC",
+      "job": "New anchor",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "2024",
+      "dateSort": "2024-00"
+    },
+    {
+      "crag": "GRIFFIG",
+      "route": "SAUNA AM SEE",
+      "job": "New anchor",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "October 2025",
+      "dateSort": "2025-10"
+    },
+    {
+      "crag": "GRIFFIG",
+      "route": "8610",
+      "job": "New anchor",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "October 2025",
+      "dateSort": "2025-10"
+    },
+    {
+      "crag": "GRIFFIG",
+      "route": "USTER",
+      "job": "New anchor",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "October 2025",
+      "dateSort": "2025-10"
+    },
+    {
+      "crag": "GRIFFIG",
+      "route": "LOVE SOMEONE",
+      "job": "New anchor",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "October 2025",
+      "dateSort": "2025-10"
+    },
+    {
+      "crag": "GRIFFIG",
+      "route": "LEO",
+      "job": "New anchor",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "October 2025",
+      "dateSort": "2025-10"
+    },
+    {
+      "crag": "GRIFFIG",
+      "route": "GLÜEWIH DELÜX",
+      "job": "New anchor",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "October 2025",
+      "dateSort": "2025-10"
+    },
+    {
+      "crag": "GRIFFIG",
+      "route": "MATHIS ON THE ROAD",
+      "job": "New anchor",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "October 2025",
+      "dateSort": "2025-10"
+    },
+    {
+      "crag": "GRIFFIG",
+      "route": "ROBIN HOOD",
+      "job": "Anchor biners added/replaced",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "April 2024",
+      "dateSort": "2024-04"
+    },
+    {
+      "crag": "GRIFFIG",
+      "route": "SUCHSPIEL",
+      "job": "Anchor biners added/replaced",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "April 2024",
+      "dateSort": "2024-04"
+    },
+    {
+      "crag": "GRIFFIG",
+      "route": "IT'S A JANINE THING",
+      "job": "New anchor",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "2024",
+      "dateSort": "2024-00"
+    },
+    {
+      "crag": "GRIFFIG",
+      "route": "CHUCHICHÄSCHTLITRIPP",
+      "job": "New anchor",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "2024",
+      "dateSort": "2024-00"
+    },
+    {
+      "crag": "GRIFFIG",
+      "route": "CHLAUSEZÄUERLI",
+      "job": "New anchor",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "2024",
+      "dateSort": "2024-00"
+    },
+    {
+      "crag": "GRIFFIG",
+      "route": "GRIFFIG GOES TO KALYMNOS",
+      "job": "New anchor",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "2024",
+      "dateSort": "2024-00"
+    },
+    {
+      "crag": "GRIFFIG",
+      "route": "ALPINE-EXPERIENCE",
+      "job": "New anchor",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "2024",
+      "dateSort": "2024-00"
+    },
+    {
+      "crag": "GRIFFIG",
+      "route": "GREMLIN HANNAH",
+      "job": "New anchor",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "2024",
+      "dateSort": "2024-00"
+    },
+    {
+      "crag": "GRIFFIG",
+      "route": "THE WILD EIGHT RF",
+      "job": "New anchor",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "2024",
+      "dateSort": "2024-00"
+    },
+    {
+      "crag": "GRIFFIG",
+      "route": "LOU + ZOE",
+      "job": "New anchor",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "2024",
+      "dateSort": "2024-00"
+    },
+    {
+      "crag": "GRIFFIG",
+      "route": "PESTALOZZI",
+      "job": "New anchor",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "2024",
+      "dateSort": "2024-00"
+    },
+    {
+      "crag": "GRIFFIG",
+      "route": "THE DENTIST TERROR",
+      "job": "New anchor",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "2024",
+      "dateSort": "2024-00"
+    },
+    {
+      "crag": "GRIFFIG",
+      "route": "OROR DOES THE BABY FREEZE",
+      "job": "New anchor",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "2024",
+      "dateSort": "2024-00"
+    },
+    {
+      "crag": "GRIFFIG",
+      "route": "CLIMBERS VILLAGE",
+      "job": "New anchor",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "2024",
+      "dateSort": "2024-00"
+    },
+    {
+      "crag": "GRIFFIG",
+      "route": "MELCON",
+      "job": "New anchor",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "2024",
+      "dateSort": "2024-00"
+    },
+    {
+      "crag": "GRIFFIG",
+      "route": "MILLIONENBACH",
+      "job": "New anchor",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "2024",
+      "dateSort": "2024-00"
+    },
+    {
+      "crag": "GRIFFIG",
+      "route": "ZELLWEGER",
+      "job": "New anchor",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "2024",
+      "dateSort": "2024-00"
+    },
+    {
+      "crag": "HEROES",
+      "route": "DR KING",
+      "job": "1 spinning bolt replaced",
+      "hardware": "Stainless Steel Expansion 316L Marine",
+      "date": "October 2025",
+      "dateSort": "2025-10"
+    },
+    {
+      "crag": "HEROES",
+      "route": "PADDY",
+      "job": "3 spinning bolts replaced",
+      "hardware": "Stainless Steel Expansion 316L Marine",
+      "date": "October 2025",
+      "dateSort": "2025-10"
+    },
+    {
+      "crag": "HEROES",
+      "route": "PHIDIAS",
+      "job": "Replaced moving bolt",
+      "hardware": "Stainless Steel Expansion 316L Marine",
+      "date": "2021",
+      "dateSort": "2021-00"
+    },
+    {
+      "crag": "IANNIS",
+      "route": "SEVASTI",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "IANNIS",
+      "route": "THEMELINA",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "IANNIS",
+      "route": "SUPER THEMELINA",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "IANNIS",
+      "route": "RACOMELO",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "IANNIS",
+      "route": "TUFA KING PUMPED",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "IROX",
+      "route": "POPI",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "IROX",
+      "route": "MARIA",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "IROX",
+      "route": "IASON",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "IROX",
+      "route": "NIKI",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "IROX",
+      "route": "KIRIAKI",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "IROX",
+      "route": "EVOULA",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "IROX",
+      "route": "EVDOKIA",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "IROX",
+      "route": "SEVASTI",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "IROX",
+      "route": "MEMORIES OF DOROTHY",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "IROX",
+      "route": "MO AN",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "IROX",
+      "route": "ANASTASIA",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "IROX",
+      "route": "EVANGELIA",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "IROX",
+      "route": "MENESIS",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "IROX",
+      "route": "DIONESIS",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "IROX",
+      "route": "INGLETON",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "IROX",
+      "route": "WHITE ROSE",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "IROX",
+      "route": "YORKSHIRE PUDDING",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "IROX",
+      "route": "HOLLENFIEBER",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "IROX",
+      "route": "SWORDFISH",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "IROX",
+      "route": "SOLEFISH",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "IROX",
+      "route": "XYMOX",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "IROX",
+      "route": "MAGMA",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "IROX",
+      "route": "MORE THAN MODE",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "IROX",
+      "route": "THE MAGIC CIRCLE",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "IROX",
+      "route": "KYPRIOS ANGEL",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "IROX",
+      "route": "HELVETIX",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "IROX",
+      "route": "SALLY'S BOAT TRIP",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "IROX",
+      "route": "PRIMEROV",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "IROX",
+      "route": "CAPTAIN JACK",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "IROX",
+      "route": "PANTELIS SEA JUMP",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "IROX",
+      "route": "CUOBO",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "IROX",
+      "route": "APHRODITE",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "IROX",
+      "route": "IROX",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "IROX",
+      "route": "MARMORNEI",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "IVORY TOWER",
+      "route": "SIDERWINDER",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "IVORY TOWER",
+      "route": "SUNRISE (PART 1)",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "IVORY TOWER",
+      "route": "KAFE (PART 1)",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "IVORY TOWER",
+      "route": "ANAPHYLACTIC SHOCK",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "IVORY TOWER",
+      "route": "LACTIC SHOCK",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "IVORY TOWER",
+      "route": "POKER FACE",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "IVORY TOWER",
+      "route": "ARTHUR",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "IVORY TOWER",
+      "route": "DELETIME",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "IVORY TOWER",
+      "route": "THE SILENT WAY",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "IVORY TOWER",
+      "route": "DREAM LINE",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "IVORY TOWER",
+      "route": "DREAM LINE EXT",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "IVORY TOWER",
+      "route": "IVORY TOWER",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "IVORY TOWER",
+      "route": "ULTIMO BUCCO",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "IVORY TOWER",
+      "route": "FUGA DEL GUY",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "JE T'AIME",
+      "route": "CHERRY 2",
+      "job": "Anchor biners added/replaced",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "October 2025",
+      "dateSort": "2025-10"
+    },
+    {
+      "crag": "JE T'AIME",
+      "route": "VAS O PARASKEVAS",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Expansion 316L Marine",
+      "date": "2023",
+      "dateSort": "2023-00"
+    },
+    {
+      "crag": "JE T'AIME",
+      "route": "RÄT PÄCK",
+      "job": "Loose block glued",
+      "hardware": "",
+      "date": "2024",
+      "dateSort": "2024-00"
+    },
+    {
+      "crag": "KALYDNA",
+      "route": "AURORA",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Expansion 316L Marine",
+      "date": "2022",
+      "dateSort": "2022-00"
+    },
+    {
+      "crag": "KALYDNA",
+      "route": "MISS LATEX",
+      "job": "Corrected anchor",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "2022",
+      "dateSort": "2022-00"
+    },
+    {
+      "crag": "KALYDNA",
+      "route": "MAMI AU GRIGRI",
+      "job": "Corrected anchor",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "2022",
+      "dateSort": "2022-00"
+    },
+    {
+      "crag": "KALYDNA",
+      "route": "BIGBOO",
+      "job": "New anchor",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "2022",
+      "dateSort": "2022-00"
+    },
+    {
+      "crag": "KALYDNA",
+      "route": "MITRA",
+      "job": "Partially rebolted",
+      "hardware": "Stainless Steel Expansion 316L Marine",
+      "date": "2022",
+      "dateSort": "2022-00"
+    },
+    {
+      "crag": "KASTELI",
+      "route": "BAMBOLA BLUE",
+      "job": "Bolting corrected, extra bolts added",
+      "hardware": "Stainless Steel Expansion 316L Marine",
+      "date": "September 2025",
+      "dateSort": "2025-09"
+    },
+    {
+      "crag": "KASTELI",
+      "route": "KROTDEBIKI",
+      "job": "Bolting corrected, extra bolts added",
+      "hardware": "Stainless Steel Expansion 316L Marine",
+      "date": "September 2025",
+      "dateSort": "2025-09"
+    },
+    {
+      "crag": "KASTELI",
+      "route": "GET A GRIP",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "December 2025",
+      "dateSort": "2025-12"
+    },
+    {
+      "crag": "KASTELI",
+      "route": "TSAROUHIS",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "December 2025",
+      "dateSort": "2025-12"
+    },
+    {
+      "crag": "KASTELI",
+      "route": "GYZIS",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "December 2025",
+      "dateSort": "2025-12"
+    },
+    {
+      "crag": "KASTELI",
+      "route": "GIKAS",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "December 2025",
+      "dateSort": "2025-12"
+    },
+    {
+      "crag": "KASTELI",
+      "route": "PAMPACHOUM",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "December 2025",
+      "dateSort": "2025-12"
+    },
+    {
+      "crag": "KASTELI",
+      "route": "PILLAR OF THE SEA",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "December 2025",
+      "dateSort": "2025-12"
+    },
+    {
+      "crag": "KASTELI",
+      "route": "MERCI BROTHERS",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "December 2025",
+      "dateSort": "2025-12"
+    },
+    {
+      "crag": "KASTELI",
+      "route": "SHY TALK",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "December 2025",
+      "dateSort": "2025-12"
+    },
+    {
+      "crag": "KASTELI",
+      "route": "MÄNNER(TOR) TOUR",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "December 2025",
+      "dateSort": "2025-12"
+    },
+    {
+      "crag": "KASTELI",
+      "route": "MIKROS PRIGIPAS",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "December 2025",
+      "dateSort": "2025-12"
+    },
+    {
+      "crag": "KASTELI",
+      "route": "NADELKISSEN",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "December 2025",
+      "dateSort": "2025-12"
+    },
+    {
+      "crag": "KASTELI",
+      "route": "RUHELOSER PIRAT",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "December 2025",
+      "dateSort": "2025-12"
+    },
+    {
+      "crag": "KASTELI",
+      "route": "GEFAEHRLICHE BRANDUNG",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "December 2025",
+      "dateSort": "2025-12"
+    },
+    {
+      "crag": "KASTELI",
+      "route": "PICCOLO DIAVOLO",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "December 2025",
+      "dateSort": "2025-12"
+    },
+    {
+      "crag": "KASTELI",
+      "route": "HOCLA",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "December 2025",
+      "dateSort": "2025-12"
+    },
+    {
+      "crag": "KASTELI",
+      "route": "GRUSELINO",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "December 2025",
+      "dateSort": "2025-12"
+    },
+    {
+      "crag": "KASTELI",
+      "route": "GÜNESLI KIZ",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "December 2025",
+      "dateSort": "2025-12"
+    },
+    {
+      "crag": "KASTELI",
+      "route": "SCARABEUS",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "December 2025",
+      "dateSort": "2025-12"
+    },
+    {
+      "crag": "KASTELI",
+      "route": "DAMOKLES",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "December 2025",
+      "dateSort": "2025-12"
+    },
+    {
+      "crag": "KASTELI",
+      "route": "ATAOLAA",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "December 2025",
+      "dateSort": "2025-12"
+    },
+    {
+      "crag": "KASTELI",
+      "route": "REWITHIA",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "December 2025",
+      "dateSort": "2025-12"
+    },
+    {
+      "crag": "KASTELI",
+      "route": "GHECKO'S HOME",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "December 2025",
+      "dateSort": "2025-12"
+    },
+    {
+      "crag": "KASTELI",
+      "route": "YAHURTI ME MELI",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "December 2025",
+      "dateSort": "2025-12"
+    },
+    {
+      "crag": "KASTELI",
+      "route": "PSOMI KI ELIES",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "December 2025",
+      "dateSort": "2025-12"
+    },
+    {
+      "crag": "KASTELI",
+      "route": "SISYPHUS",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "December 2025",
+      "dateSort": "2025-12"
+    },
+    {
+      "crag": "KASTELI",
+      "route": "CAPTAIN ADONIS",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "December 2025",
+      "dateSort": "2025-12"
+    },
+    {
+      "crag": "KASTELI",
+      "route": "KOKKINIDIS",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "December 2025",
+      "dateSort": "2025-12"
+    },
+    {
+      "crag": "KASTELI",
+      "route": "A TIGHT SQUEEZE",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "December 2025",
+      "dateSort": "2025-12"
+    },
+    {
+      "crag": "KASTELI",
+      "route": "MATHILDE",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "December 2025",
+      "dateSort": "2025-12"
+    },
+    {
+      "crag": "KASTELI",
+      "route": "BRICOUNET",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "December 2025",
+      "dateSort": "2025-12"
+    },
+    {
+      "crag": "KASTELI",
+      "route": "YIA TON KYRIAKO",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "December 2025",
+      "dateSort": "2025-12"
+    },
+    {
+      "crag": "KASTELI",
+      "route": "LIGO AKOMA",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "December 2025",
+      "dateSort": "2025-12"
+    },
+    {
+      "crag": "KASTELI",
+      "route": "BRICOUNET",
+      "job": "Anchor biners added/replaced",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "April 2024",
+      "dateSort": "2024-04"
+    },
+    {
+      "crag": "KASTELI",
+      "route": "MATHILDA",
+      "job": "Anchor biners added/replaced",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "April 2024",
+      "dateSort": "2024-04"
+    },
+    {
+      "crag": "KASTRI",
+      "route": "PRINCIPESSA GIULIA",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Expansion 316L Marine",
+      "date": "January 2026",
+      "dateSort": "2026-01"
+    },
+    {
+      "crag": "KASTRI",
+      "route": "DRAGON'S LAIR",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Expansion 316L Marine",
+      "date": "January 2026",
+      "dateSort": "2026-01"
+    },
+    {
+      "crag": "KASTRI",
+      "route": "ENCHANTED CASTLE",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Expansion 316L Marine",
+      "date": "January 2026",
+      "dateSort": "2026-01"
+    },
+    {
+      "crag": "LAMBDA",
+      "route": "STAFEL",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "LAMBDA",
+      "route": "LAMBDA",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "LAMBDA",
+      "route": "LAMBDA CAPITAL",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "LAMBDA",
+      "route": "MEIGGEREN",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "LAMBDA",
+      "route": "PROGRESSIVE ROCK PART 1",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "LAMBDA",
+      "route": "PROGRESSIVE ROCK PART 2",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "LAMBDA",
+      "route": "PROGRESSIVE ROCK PART 3",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "LAMBDA",
+      "route": "DOM",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "LAMBDA",
+      "route": "FIIRHELZER",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "LAMBDA",
+      "route": "ARBZUG",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "LAMBDA",
+      "route": "GERWITSCHT",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "LAMBDA",
+      "route": "CHARDONNAY",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "LAMBDA",
+      "route": "EL ALAMEIN",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "LAMBDA",
+      "route": "MARINELLI",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "LAMBDA",
+      "route": "HOTEL SIMI BASEMENT",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "LAMBDA",
+      "route": "HOTEL SIMI",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "LAMBDA",
+      "route": "SCHWJIESCHWANZERRECTED",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "LAMBDA",
+      "route": "FLAUSCHI",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "LAMBDA",
+      "route": "ROLFI",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "LAMBDA",
+      "route": "HERMETJE",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "NORTH CAPE",
+      "route": "TO PROTO MORO MOU",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "NORTH CAPE",
+      "route": "SEAL",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "NORTH CAPE",
+      "route": "HANTCH",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "NORTH CAPE",
+      "route": "REIZE",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "NORTH CAPE",
+      "route": "POLAR STAR",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "NORTH CAPE",
+      "route": "NORDIC WALKING",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "NORTH CAPE",
+      "route": "NORTH LIGHT",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "NOÚFARO",
+      "route": "KOSTAS VS SOFIA",
+      "job": "3 missing hangers replaced",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "May 2025",
+      "dateSort": "2025-05"
+    },
+    {
+      "crag": "NOÚFARO",
+      "route": "EISZEIT",
+      "job": "Anchor biners added/replaced",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "May 2025",
+      "dateSort": "2025-05"
+    },
+    {
+      "crag": "NOÚFARO",
+      "route": "ENGLISH WALTZ",
+      "job": "Anchor biners added/replaced",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "May 2025",
+      "dateSort": "2025-05"
+    },
+    {
+      "crag": "NOÚFARO",
+      "route": "ERICSTOTLE",
+      "job": "Partially rebolted",
+      "hardware": "Stainless Steel Expansion 316L Marine",
+      "date": "May 2025",
+      "dateSort": "2025-05"
+    },
+    {
+      "crag": "NOÚFARO",
+      "route": "DUCK DANCE",
+      "job": "Anchor biners added/replaced",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "July 2023",
+      "dateSort": "2023-07"
+    },
+    {
+      "crag": "NOÚFARO",
+      "route": "AMAZONA",
+      "job": "Anchor biners added/replaced",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "July 2023",
+      "dateSort": "2023-07"
+    },
+    {
+      "crag": "NOÚFARO",
+      "route": "MANTIS",
+      "job": "Anchor biners added/replaced",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "July 2023",
+      "dateSort": "2023-07"
+    },
+    {
+      "crag": "NOÚFARO",
+      "route": "SPICE",
+      "job": "Anchor biners added/replaced",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "July 2023",
+      "dateSort": "2023-07"
+    },
+    {
+      "crag": "NOÚFARO",
+      "route": "ERICSTOTLE",
+      "job": "Anchor biners added/replaced",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "July 2023",
+      "dateSort": "2023-07"
+    },
+    {
+      "crag": "NOÚFARO",
+      "route": "GARBULLI",
+      "job": "Anchor biners added/replaced",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "July 2023",
+      "dateSort": "2023-07"
+    },
+    {
+      "crag": "NOÚFARO",
+      "route": "GECKO'S TEAM",
+      "job": "Anchor biners added/replaced",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "July 2023",
+      "dateSort": "2023-07"
+    },
+    {
+      "crag": "NOÚFARO",
+      "route": "HO PERSO LA BUSSOLA",
+      "job": "Anchor biners added/replaced",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "July 2023",
+      "dateSort": "2023-07"
+    },
+    {
+      "crag": "NOÚFARO",
+      "route": "NAOSHI",
+      "job": "Anchor biners added/replaced",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "July 2023",
+      "dateSort": "2023-07"
+    },
+    {
+      "crag": "NOÚFARO",
+      "route": "BUONA LA PRIMA",
+      "job": "Anchor biners added/replaced",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "July 2023",
+      "dateSort": "2023-07"
+    },
+    {
+      "crag": "NOÚFARO",
+      "route": "BOLERO",
+      "job": "New anchor; moved up by 2m",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "2021",
+      "dateSort": "2021-00"
+    },
+    {
+      "crag": "NOÚFARO",
+      "route": "HARRY BOLTER",
+      "job": "Corrected bolting at crux; added extra bolt",
+      "hardware": "Stainless Steel Expansion 316L Marine",
+      "date": "2021",
+      "dateSort": "2021-00"
+    },
+    {
+      "crag": "NOÚFARO",
+      "route": "SIRTAKI",
+      "job": "New anchor; cleaned loose rock",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "2023",
+      "dateSort": "2023-00"
+    },
+    {
+      "crag": "NOÚFARO",
+      "route": "TRIO",
+      "job": "New anchor",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "2023",
+      "dateSort": "2023-00"
+    },
+    {
+      "crag": "NOÚFARO",
+      "route": "AROMA",
+      "job": "Removed loose rock",
+      "hardware": "",
+      "date": "2024",
+      "dateSort": "2024-00"
+    },
+    {
+      "crag": "NOÚFARO / ALMODOVAR",
+      "route": "C'EST LA VIE",
+      "job": "Anchor biners added/replaced",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "April 2024",
+      "dateSort": "2024-04"
+    },
+    {
+      "crag": "NOÚFARO / ALMODOVAR",
+      "route": "BOLTING ADDICTION",
+      "job": "New anchor and spinning bolt replaced",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "November 2024",
+      "dateSort": "2024-11"
+    },
+    {
+      "crag": "ODYSSEY",
+      "route": "MARCI MARC",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "ODYSSEY",
+      "route": "NADIR",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "ODYSSEY",
+      "route": "AMPHORA",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "ODYSSEY",
+      "route": "SIRENE",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "ODYSSEY",
+      "route": "INTI RAYMI",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "ODYSSEY",
+      "route": "SARDONIQUE",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "ODYSSEY",
+      "route": "INTI WATANA",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "ODYSSEY",
+      "route": "BOOM BOOM",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "ODYSSEY",
+      "route": "LOS REVOLUCIONARIOS",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "ODYSSEY",
+      "route": "GORA GUTA GUTARAK",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "ODYSSEY",
+      "route": "TUPAC AMARU",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "ODYSSEY",
+      "route": "PINDARO",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "ODYSSEY",
+      "route": "LOS KUKOS",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "ODYSSEY",
+      "route": "MORFEAS",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "ODYSSEY",
+      "route": "MORFEAS PLUS",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "ODYSSEY",
+      "route": "LAS GALLINAS QUE ENTRAN",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "ODYSSEY",
+      "route": "KULTURISTIKA",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "ODYSSEY",
+      "route": "ARUGLIOPOULOS",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "ODYSSEY",
+      "route": "NAUSICAA NAUSICAA",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "ODYSSEY",
+      "route": "MON AMOUR",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "ODYSSEY",
+      "route": "ISLAND HIGHWAY",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "ODYSSEY",
+      "route": "IL GIGANTE E LA BAMBINA",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "ODYSSEY",
+      "route": "TELEMACO EXT",
+      "job": "Bolting corrected, extra bolts added",
+      "hardware": "Stainless Steel Expansion 316L Marine",
+      "date": "2019",
+      "dateSort": "2019-00"
+    },
+    {
+      "crag": "ODYSSEY",
+      "route": "TELEMACO",
+      "job": "Rebolted",
+      "hardware": "Stainless Steel Expansion 316L Marine",
+      "date": "2019",
+      "dateSort": "2019-00"
+    },
+    {
+      "crag": "ODYSSEY",
+      "route": "ON THE VERGE",
+      "job": "Fully rebolted, cleaned",
+      "hardware": "Stainless Steel Expansion 316L Marine",
+      "date": "2019",
+      "dateSort": "2019-00"
+    },
+    {
+      "crag": "ODYSSEY",
+      "route": "ATENA",
+      "job": "New anchor; two bolts replaced",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "2021",
+      "dateSort": "2021-00"
+    },
+    {
+      "crag": "OLYMPIC WALL",
+      "route": "LA BITE NE FAIT PAS LE MOINE",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "OLYMPIC WALL",
+      "route": "LA BITE NE FAIT PAS LE MOINE EXT",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "OLYMPIC WALL",
+      "route": "KALYNETTE",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "OLYMPIC WALL",
+      "route": "SAPHIR",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "OLYMPIC WALL",
+      "route": "SEXTOYS",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "OLYMPIC WALL",
+      "route": "TELENDOS",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "OLYMPIC WALL",
+      "route": "KALYTY",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "OLYMPIC WALL",
+      "route": "YAMAS",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "OLYMPIC WALL",
+      "route": "HOGO FOGO",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "OLYMPIC WALL",
+      "route": "HELLAS RODEO",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "OLYMPIC WALL",
+      "route": "LIMONADOVY",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "OLYMPIC WALL",
+      "route": "DÉFENSE D'Y VOIR",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "OLYMPIC WALL",
+      "route": "EROTIK MARKET",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "OLYMPIC WALL",
+      "route": "IL MOVIMIENTO SEXI",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "OLYMPIC WALL",
+      "route": "TOUTOUILLE",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "OLYMPIC WALL",
+      "route": "GALASIA PETRA",
+      "job": "Rebolted Pitch 3; added Pitch 4; whole route cleaned",
+      "hardware": "Stainless Steel Expansion 316L Marine",
+      "date": "2024",
+      "dateSort": "2024-00"
+    },
+    {
+      "crag": "PALACE",
+      "route": "KARTOFFELACREP",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "PALACE",
+      "route": "LAMPEN LADEN",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "PALACE",
+      "route": "LEDA",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "PALACE",
+      "route": "SAIA",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "PALACE",
+      "route": "IFAISTOS",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "PALACE",
+      "route": "TOTTA",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "PALACE",
+      "route": "SILVIA (MELIS)",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "PALACE",
+      "route": "ROOM 13",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "PALACE",
+      "route": "THE ROOF IS ON FIRE",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "PALACE",
+      "route": "BALLROOM",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "PALACE",
+      "route": "MIA'S PLACE",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "PALACE",
+      "route": "KING SUITE",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "PALACE",
+      "route": "BALCONY",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "PALIONISOS BAY",
+      "route": "NOVEMBERSONNE",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Expansion 316L Marine",
+      "date": "May 2025",
+      "dateSort": "2025-05"
+    },
+    {
+      "crag": "PANORAMA",
+      "route": "RASTAPOPOULOS",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "PANORAMA",
+      "route": "AEGEAN SEA",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "PANORAMA",
+      "route": "CIGARILLO",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "PANORAMA",
+      "route": "WHERE IS MY MIND?",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "PANORAMA",
+      "route": "PANSELINOS",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "PANORAMA",
+      "route": "CARPE DIEM",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "PANORAMA",
+      "route": "CARPE NOCTEM",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "PANORAMA",
+      "route": "COMMANDANTE MARCOS",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "PANORAMA",
+      "route": "JOGGEL + TOGGEL",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "PANORAMA",
+      "route": "TUEFELI",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "PANORAMA",
+      "route": "CHNOSI FAMILY",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "PANORAMA",
+      "route": "BOOMERANG",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "PANORAMA",
+      "route": "MECKI MESSER",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "PANORAMA",
+      "route": "STEINPILZ",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "PANORAMA",
+      "route": "NEPTUN KL",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "PANORAMA",
+      "route": "NEPTUN KL EXT",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "PANORAMA",
+      "route": "MICHIS HOHLENFLEBER",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "PANORAMA",
+      "route": "BYE BYE FELIX",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "PANORAMA",
+      "route": "REPTIL",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "PANORAMA",
+      "route": "MIND BOGGLE",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "PANORAMA",
+      "route": "GWUNDERNASSE",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "PANORAMA",
+      "route": "RUSSEL PARADIES",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "PANORAMA",
+      "route": "KOPAKABANA",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "PANORAMA",
+      "route": "KOPAKABANA EXT",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "PANORAMA",
+      "route": "MANOU TCHAO",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "PANORAMA",
+      "route": "THE CALL OF THE KTULU",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "PANORAMA",
+      "route": "JOGGEL + TOGGEL EXT 1",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "PANORAMA",
+      "route": "JOGGEL + TOGGEL EXT 2",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "PANORAMA",
+      "route": "SUPER CARPE DIEM",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "PANORAMA",
+      "route": "PAPACOSTOPOULOS",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "PESCATORE",
+      "route": "MAFALDA",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "PESCATORE",
+      "route": "ISSILI",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "PESCATORE",
+      "route": "PLAKA",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "PESCATORE",
+      "route": "TEQUISCHIAPAN",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "PESCATORE",
+      "route": "OTR",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "PESCATORE",
+      "route": "ZORBA'S RESTAURANT",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "PESCATORE",
+      "route": "PADELIS",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "PESCATORE",
+      "route": "ABONEROS EL CHILLI",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "PESCATORE",
+      "route": "Y VIVA PANCHO VILLA!",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "PESCATORE",
+      "route": "QUEEN POTHA",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "PESCATORE",
+      "route": "AEGENA",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "PESCATORE",
+      "route": "IL Y AVAIT DE LAURE DANS MA VIE",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "PESCATORE",
+      "route": "AMORES PERROS",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "PESCATORE",
+      "route": "ZOIDIS",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "PESCATORE",
+      "route": "SCOOTER FUN",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "PESCATORE",
+      "route": "MILITIADIS",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "PEZONDA",
+      "route": "MISIRLOU",
+      "job": "Added 3 extra bolts",
+      "hardware": "Stainless Steel Expansion 316L Marine",
+      "date": "2021",
+      "dateSort": "2021-00"
+    },
+    {
+      "crag": "POETS",
+      "route": "MUSTASS",
+      "job": "Anchor biners added/replaced",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "May 2025",
+      "dateSort": "2025-05"
+    },
+    {
+      "crag": "POETS",
+      "route": "SAXONIA",
+      "job": "Anchor biners added/replaced",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "May 2025",
+      "dateSort": "2025-05"
+    },
+    {
+      "crag": "POETS",
+      "route": "MUSTASS",
+      "job": "Anchor biners added/replaced",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "November 2025",
+      "dateSort": "2025-11"
+    },
+    {
+      "crag": "POETS",
+      "route": "STYX",
+      "job": "Anchor biners added/replaced",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "November 2025",
+      "dateSort": "2025-11"
+    },
+    {
+      "crag": "POETS",
+      "route": "OREADS",
+      "job": "Anchor biners added/replaced",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "November 2025",
+      "dateSort": "2025-11"
+    },
+    {
+      "crag": "POETS",
+      "route": "REINS BEAUX",
+      "job": "Anchor biners added/replaced",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "November 2025",
+      "dateSort": "2025-11"
+    },
+    {
+      "crag": "POETS",
+      "route": "KAROUBALO",
+      "job": "Bolt replaced",
+      "hardware": "Stainless Steel Expansion 316L Marine",
+      "date": "November 2025",
+      "dateSort": "2025-11"
+    },
+    {
+      "crag": "POETS",
+      "route": "POETS CORNER",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "POETS",
+      "route": "IONE",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "POETS",
+      "route": "IBRIA",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "POETS",
+      "route": "ANACREONTE",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "POETS",
+      "route": "ALCMAN",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "POETS",
+      "route": "LICIMNIO",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "POETS",
+      "route": "ALCEO",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "POETS",
+      "route": "PINDARO",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "POETS",
+      "route": "SAPFO",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "POETS",
+      "route": "O'BROTHERS",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "POETS",
+      "route": "MUSTASS",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "POETS",
+      "route": "SAXONIA",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "POETS",
+      "route": "OMERO",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "POETS",
+      "route": "STYX",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "POETS",
+      "route": "IRIS",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "POETS",
+      "route": "WALA WALA",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "POETS",
+      "route": "KAVAFIS",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "POETS",
+      "route": "MINOS",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "POETS",
+      "route": "SKALA DREAM",
+      "job": "Bolting corrected",
+      "hardware": "",
+      "date": "2019",
+      "dateSort": "2019-00"
+    },
+    {
+      "crag": "POETS",
+      "route": "ÇA BRUINE SEC",
+      "job": "Extra bolts added",
+      "hardware": "Stainless Steel Expansion 316L Marine",
+      "date": "2019",
+      "dateSort": "2019-00"
+    },
+    {
+      "crag": "POETS",
+      "route": "IRIS",
+      "job": "Extra bolt added after ledge",
+      "hardware": "Stainless Steel Expansion 316L Marine",
+      "date": "2019",
+      "dateSort": "2019-00"
+    },
+    {
+      "crag": "POETS / IANNIS",
+      "route": "PETRANTA",
+      "job": "Moving bolt replaced",
+      "hardware": "Stainless Steel Expansion 316L Marine",
+      "date": "March 2024",
+      "dateSort": "2024-03"
+    },
+    {
+      "crag": "POETS / IANNIS",
+      "route": "AMYTHOS",
+      "job": "Anchor biners added/replaced",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "December 2022",
+      "dateSort": "2022-12"
+    },
+    {
+      "crag": "POETS / IANNIS",
+      "route": "SEVASTI",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Expansion 316L Marine",
+      "date": "December 2022",
+      "dateSort": "2022-12"
+    },
+    {
+      "crag": "POETS / IANNIS",
+      "route": "YPAKOE",
+      "job": "Anchor biners added/replaced",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "November 2022",
+      "dateSort": "2022-11"
+    },
+    {
+      "crag": "POETS / IANNIS",
+      "route": "FENCE GUEST",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Expansion 316L Marine",
+      "date": "November 2022",
+      "dateSort": "2022-11"
+    },
+    {
+      "crag": "POETS / IANNIS",
+      "route": "PETRANTA",
+      "job": "Replaced moving bolt",
+      "hardware": "Stainless Steel Expansion 316L Marine",
+      "date": "2024",
+      "dateSort": "2024-00"
+    },
+    {
+      "crag": "POETS / ZEUS",
+      "route": "ISABEL",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Expansion 316L Marine",
+      "date": "April 2024",
+      "dateSort": "2024-04"
+    },
+    {
+      "crag": "POETS / ZEUS",
+      "route": "GANIMED",
+      "job": "Fully rebolted, loose rock cleaned",
+      "hardware": "Stainless Steel Expansion 316L Marine",
+      "date": "2022",
+      "dateSort": "2022-00"
+    },
+    {
+      "crag": "POETS / ZEUS",
+      "route": "ISABEL",
+      "job": "Rebolted and corrected",
+      "hardware": "Stainless Steel Expansion 316L Marine",
+      "date": "2024",
+      "dateSort": "2024-00"
+    },
+    {
+      "crag": "POETS / ZEUS",
+      "route": "BLONDE",
+      "job": "New anchor",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "2024",
+      "dateSort": "2024-00"
+    },
+    {
+      "crag": "POETS / ZEUS",
+      "route": "BLONDE, JAMES BLONDE",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Expansion 316L Marine",
+      "date": "2024",
+      "dateSort": "2024-00"
+    },
+    {
+      "crag": "SCHOOL",
+      "route": "PLATON",
+      "job": "Bolting corrected",
+      "hardware": "Stainless Steel Expansion 316L Marine",
+      "date": "April 2025",
+      "dateSort": "2025-04"
+    },
+    {
+      "crag": "SCHOOL",
+      "route": "KALYMNOS 2000",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Expansion 316L Marine",
+      "date": "April 2025",
+      "dateSort": "2025-04"
+    },
+    {
+      "crag": "SEA BREEZE",
+      "route": "KARLOMANOS",
+      "job": "Anchor biners added/replaced",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "October 2025",
+      "dateSort": "2025-10"
+    },
+    {
+      "crag": "SEA BREEZE",
+      "route": "DROSIA",
+      "job": "Anchor biners added/replaced",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "October 2025",
+      "dateSort": "2025-10"
+    },
+    {
+      "crag": "SEA BREEZE",
+      "route": "GLAROS",
+      "job": "Anchor biners added/replaced",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "October 2025",
+      "dateSort": "2025-10"
+    },
+    {
+      "crag": "SEA BREEZE",
+      "route": "EOS",
+      "job": "Anchor biners added/replaced",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "October 2025",
+      "dateSort": "2025-10"
+    },
+    {
+      "crag": "SEA BREEZE",
+      "route": "BEGINNINGS",
+      "job": "Anchor biners added/replaced",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "October 2025",
+      "dateSort": "2025-10"
+    },
+    {
+      "crag": "SEA BREEZE",
+      "route": "TIR Ô PIGEONS",
+      "job": "Bolting corrected",
+      "hardware": "",
+      "date": "October 2025",
+      "dateSort": "2025-10"
+    },
+    {
+      "crag": "SEA BREEZE",
+      "route": "HERA",
+      "job": "Hangers replaced, extra bolts added, loose block glued",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "October 2025",
+      "dateSort": "2025-10"
+    },
+    {
+      "crag": "SEA BREEZE",
+      "route": "MELOMAKARONAS",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "SEA BREEZE",
+      "route": "PLASTIC SURGERY DISASTER",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "SEA BREEZE",
+      "route": "ART IN THE AIR",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "SEA BREEZE",
+      "route": "VROMIKOS",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "SEA BREEZE",
+      "route": "BOULDERHOELLE",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "SEA BREEZE",
+      "route": "HAZOULI",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "SEA BREEZE",
+      "route": "HAZOULI EXT",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "SEA BREEZE",
+      "route": "ME PONAI",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "SEA BREEZE",
+      "route": "ROCKOUT",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "SEA BREEZE",
+      "route": "LOUBI'S ANGELS",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "SEA BREEZE",
+      "route": "BRAVE NEW WORLD",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "SEA BREEZE",
+      "route": "DIVINE COMEDIE",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "SEA BREEZE",
+      "route": "SWEDISH BLONDE",
+      "job": "New anchor",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "2018",
+      "dateSort": "2018-00"
+    },
+    {
+      "crag": "SEA BREEZE",
+      "route": "FALAKRO",
+      "job": "Cleaned loose block",
+      "hardware": "",
+      "date": "2018",
+      "dateSort": "2018-00"
+    },
+    {
+      "crag": "SEA BREEZE",
+      "route": "RAND PROBLEM",
+      "job": "Cleaned loose block",
+      "hardware": "",
+      "date": "2018",
+      "dateSort": "2018-00"
+    },
+    {
+      "crag": "SEA BREEZE",
+      "route": "2F@",
+      "job": "New anchor and fully rebolted",
+      "hardware": "Stainless Steel Expansion 316L Marine",
+      "date": "2018",
+      "dateSort": "2018-00"
+    },
+    {
+      "crag": "SEA BREEZE",
+      "route": "CLIMBING, THE 2ND BEST THING",
+      "job": "New anchor",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "2018",
+      "dateSort": "2018-00"
+    },
+    {
+      "crag": "SEA BREEZE",
+      "route": "SLALOM",
+      "job": "New anchor and fully rebolted",
+      "hardware": "Stainless Steel Expansion 316L Marine",
+      "date": "2018",
+      "dateSort": "2018-00"
+    },
+    {
+      "crag": "SEA BREEZE",
+      "route": "NEWCOMER",
+      "job": "New anchor and fully rebolted",
+      "hardware": "Stainless Steel Expansion 316L Marine",
+      "date": "2018",
+      "dateSort": "2018-00"
+    },
+    {
+      "crag": "SEA BREEZE",
+      "route": "ROCK CLEANER",
+      "job": "New anchor",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "2023",
+      "dateSort": "2023-00"
+    },
+    {
+      "crag": "SECRET GARDEN",
+      "route": "PARTHENON",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "July 2025",
+      "dateSort": "2025-07"
+    },
+    {
+      "crag": "SECRET GARDEN",
+      "route": "PANTREMENOS",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "July 2025",
+      "dateSort": "2025-07"
+    },
+    {
+      "crag": "SECRET GARDEN",
+      "route": "ROOFIANOS",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "July 2025",
+      "dateSort": "2025-07"
+    },
+    {
+      "crag": "SECRET GARDEN",
+      "route": "KALOLIMNOS",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "July 2025",
+      "dateSort": "2025-07"
+    },
+    {
+      "crag": "SECRET GARDEN",
+      "route": "NISOS PITTA",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "July 2025",
+      "dateSort": "2025-07"
+    },
+    {
+      "crag": "SECRET GARDEN",
+      "route": "ACHINOS",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "July 2025",
+      "dateSort": "2025-07"
+    },
+    {
+      "crag": "SECRET GARDEN",
+      "route": "RICCI DI MARE",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "July 2025",
+      "dateSort": "2025-07"
+    },
+    {
+      "crag": "SECRET GARDEN",
+      "route": "TZIVAERI",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "July 2025",
+      "dateSort": "2025-07"
+    },
+    {
+      "crag": "SECRET GARDEN",
+      "route": "BAGLAMAS",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "July 2025",
+      "dateSort": "2025-07"
+    },
+    {
+      "crag": "SECRET GARDEN",
+      "route": "SAM SUFFIT",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "July 2025",
+      "dateSort": "2025-07"
+    },
+    {
+      "crag": "SECRET GARDEN",
+      "route": "MARKOUTSI",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "July 2025",
+      "dateSort": "2025-07"
+    },
+    {
+      "crag": "SECRET GARDEN",
+      "route": "MAGIOROS",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "July 2025",
+      "dateSort": "2025-07"
+    },
+    {
+      "crag": "SECRET GARDEN",
+      "route": "REMETZO",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "July 2025",
+      "dateSort": "2025-07"
+    },
+    {
+      "crag": "SECRET GARDEN",
+      "route": "HANDS OF KALYMNOS",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "July 2025",
+      "dateSort": "2025-07"
+    },
+    {
+      "crag": "SECRET GARDEN",
+      "route": "BRATSERA",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "July 2025",
+      "dateSort": "2025-07"
+    },
+    {
+      "crag": "SECRET GARDEN",
+      "route": "MARGARITA",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "July 2025",
+      "dateSort": "2025-07"
+    },
+    {
+      "crag": "SECRET GARDEN",
+      "route": "DIRLANDA",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "July 2025",
+      "dateSort": "2025-07"
+    },
+    {
+      "crag": "SECRET GARDEN",
+      "route": "SYRTAKI LESSONS",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "July 2025",
+      "dateSort": "2025-07"
+    },
+    {
+      "crag": "SECRET GARDEN",
+      "route": "SAVINA",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "July 2025",
+      "dateSort": "2025-07"
+    },
+    {
+      "crag": "SECRET GARDEN",
+      "route": "CHIEN JAUNE",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "July 2025",
+      "dateSort": "2025-07"
+    },
+    {
+      "crag": "SECRET GARDEN",
+      "route": "FULL JOB",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "July 2025",
+      "dateSort": "2025-07"
+    },
+    {
+      "crag": "SECRET GARDEN",
+      "route": "HALF JOB",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "July 2025",
+      "dateSort": "2025-07"
+    },
+    {
+      "crag": "SECRET GARDEN",
+      "route": "POMPONIDOUX",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "July 2025",
+      "dateSort": "2025-07"
+    },
+    {
+      "crag": "SECRET GARDEN",
+      "route": "ROUTE 69",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "July 2025",
+      "dateSort": "2025-07"
+    },
+    {
+      "crag": "SECRET GARDEN",
+      "route": "MELODRAMA",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "July 2025",
+      "dateSort": "2025-07"
+    },
+    {
+      "crag": "SECRET GARDEN",
+      "route": "FRAPOGALO",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "July 2025",
+      "dateSort": "2025-07"
+    },
+    {
+      "crag": "SECRET GARDEN",
+      "route": "BALLOS",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "July 2025",
+      "dateSort": "2025-07"
+    },
+    {
+      "crag": "SECRET GARDEN",
+      "route": "ADOLFLAHAUT",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "July 2025",
+      "dateSort": "2025-07"
+    },
+    {
+      "crag": "SECRET GARDEN",
+      "route": "IKARIOTIKOS",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "July 2025",
+      "dateSort": "2025-07"
+    },
+    {
+      "crag": "SECRET GARDEN",
+      "route": "RICOUNET",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "July 2025",
+      "dateSort": "2025-07"
+    },
+    {
+      "crag": "SECRET GARDEN",
+      "route": "CRISIS",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "July 2025",
+      "dateSort": "2025-07"
+    },
+    {
+      "crag": "SECRET GARDEN",
+      "route": "PRINCESSE MARINE",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "July 2025",
+      "dateSort": "2025-07"
+    },
+    {
+      "crag": "SECRET GARDEN",
+      "route": "TRICKY KATIE",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "July 2025",
+      "dateSort": "2025-07"
+    },
+    {
+      "crag": "SECRET GARDEN",
+      "route": "L'INSOUTENABLE LÉGÈRETÉ",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "July 2025",
+      "dateSort": "2025-07"
+    },
+    {
+      "crag": "SECRET GARDEN",
+      "route": "APOCALYPSE",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "July 2025",
+      "dateSort": "2025-07"
+    },
+    {
+      "crag": "SECRET GARDEN",
+      "route": "THE FLOODGATES PART 1",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "July 2025",
+      "dateSort": "2025-07"
+    },
+    {
+      "crag": "SECRET GARDEN",
+      "route": "THE FLOODGATES",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "July 2025",
+      "dateSort": "2025-07"
+    },
+    {
+      "crag": "SECRET GARDEN",
+      "route": "STIGMA",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "July 2025",
+      "dateSort": "2025-07"
+    },
+    {
+      "crag": "SECRET GARDEN",
+      "route": "KHAOS",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "July 2025",
+      "dateSort": "2025-07"
+    },
+    {
+      "crag": "SECRET GARDEN",
+      "route": "BOURRÉ MAIS PAS PLEINE",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "July 2025",
+      "dateSort": "2025-07"
+    },
+    {
+      "crag": "SECRET GARDEN",
+      "route": "THE SILENCE OF THE ABYSS",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "July 2025",
+      "dateSort": "2025-07"
+    },
+    {
+      "crag": "SECRET GARDEN",
+      "route": "ABYSSOS",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "July 2025",
+      "dateSort": "2025-07"
+    },
+    {
+      "crag": "SECRET GARDEN",
+      "route": "PUFFA PUFFA PUFFA",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "July 2025",
+      "dateSort": "2025-07"
+    },
+    {
+      "crag": "SECRET GARDEN",
+      "route": "DOGMA",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "July 2025",
+      "dateSort": "2025-07"
+    },
+    {
+      "crag": "SECRET GARDEN",
+      "route": "NARCISSUS",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "July 2025",
+      "dateSort": "2025-07"
+    },
+    {
+      "crag": "SECRET GARDEN",
+      "route": "KALY DIVA",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "July 2025",
+      "dateSort": "2025-07"
+    },
+    {
+      "crag": "SECRET GARDEN",
+      "route": "PLAY BUZUKI",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "July 2025",
+      "dateSort": "2025-07"
+    },
+    {
+      "crag": "SECRET GARDEN",
+      "route": "MAYUMBA",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "July 2025",
+      "dateSort": "2025-07"
+    },
+    {
+      "crag": "SECRET GARDEN",
+      "route": "MAYUMBA EXT",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "July 2025",
+      "dateSort": "2025-07"
+    },
+    {
+      "crag": "SECRET GARDEN",
+      "route": "HYPER",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "July 2025",
+      "dateSort": "2025-07"
+    },
+    {
+      "crag": "SECRET GARDEN",
+      "route": "YMER",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "July 2025",
+      "dateSort": "2025-07"
+    },
+    {
+      "crag": "SECRET GARDEN",
+      "route": "EXTRA SECRET",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "July 2025",
+      "dateSort": "2025-07"
+    },
+    {
+      "crag": "SIKATI CAVE",
+      "route": "VIA FERRATA (APPROACH)",
+      "job": "Via ferrata rungs installed",
+      "hardware": "",
+      "date": "April 2025",
+      "dateSort": "2025-04"
+    },
+    {
+      "crag": "SIKATI CAVE",
+      "route": "HAPPY BOYFRIEND",
+      "job": "New anchor",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "2024",
+      "dateSort": "2024-00"
+    },
+    {
+      "crag": "SIKATI CAVE",
+      "route": "DROPZONE",
+      "job": "New anchor",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "2024",
+      "dateSort": "2024-00"
+    },
+    {
+      "crag": "SIKATI CAVE",
+      "route": "LAURENT...Y'A QUELQU'UN",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "2023",
+      "dateSort": "2023-00"
+    },
+    {
+      "crag": "SIKATI CAVE",
+      "route": "ARMATA SIKATI",
+      "job": "New anchor",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "2024",
+      "dateSort": "2024-00"
+    },
+    {
+      "crag": "SIKATI CAVE",
+      "route": "LITTLE BULBOS",
+      "job": "New anchor",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "2024",
+      "dateSort": "2024-00"
+    },
+    {
+      "crag": "SIKATI CAVE",
+      "route": "KALYROCK.COM",
+      "job": "Fully rebolted (Pitch 1)",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "2024",
+      "dateSort": "2024-00"
+    },
+    {
+      "crag": "SIKATI CAVE",
+      "route": "SUPER LOLITA",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "2023",
+      "dateSort": "2023-00"
+    },
+    {
+      "crag": "SIKATI CAVE",
+      "route": "LOLITA",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "2023",
+      "dateSort": "2023-00"
+    },
+    {
+      "crag": "SIKATI CAVE",
+      "route": "LES ARTS DU VIDE",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "2024",
+      "dateSort": "2024-00"
+    },
+    {
+      "crag": "SIKATI CAVE",
+      "route": "POR UNA SOCIEDAD CON MUJERES SATISFECHAS",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "2024",
+      "dateSort": "2024-00"
+    },
+    {
+      "crag": "SIKATI CAVE",
+      "route": "MORGAN",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "2023",
+      "dateSort": "2023-00"
+    },
+    {
+      "crag": "SIKATI CAVE",
+      "route": "MORT AUX CHÈVRES",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "2023",
+      "dateSort": "2023-00"
+    },
+    {
+      "crag": "SIKATI CAVE",
+      "route": "LES DENTS DE LA MER",
+      "job": "Fully rebolted, permadraws added",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "2024",
+      "dateSort": "2024-00"
+    },
+    {
+      "crag": "SIKATI CAVE",
+      "route": "LES PIRATES DE SIKATI",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "2023",
+      "dateSort": "2023-00"
+    },
+    {
+      "crag": "SPARTACUS",
+      "route": "ZIEGENPETER",
+      "job": "Loose blocks removed",
+      "hardware": "",
+      "date": "January 2026",
+      "dateSort": "2026-01"
+    },
+    {
+      "crag": "SPARTACUS",
+      "route": "3 STRIPES",
+      "job": "Route cleaned, bolts tightened",
+      "hardware": "",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "SPARTACUS",
+      "route": "ALEXIS ZORBAS",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Expansion 316L Marine",
+      "date": "2023",
+      "dateSort": "2023-00"
+    },
+    {
+      "crag": "SPARTAN WALL",
+      "route": "ORGANIZER",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "SPARTAN WALL",
+      "route": "MEGA BURGER",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "SPARTAN WALL",
+      "route": "STRANGE LITTLE GIRL",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "SPARTAN WALL",
+      "route": "INSOMNIA",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "SPARTAN WALL",
+      "route": "DIMARHOS",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "SPARTAN WALL",
+      "route": "TIGRYONAK",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "SPARTAN WALL",
+      "route": "DULCES SUEÑOS",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "SPARTAN WALL",
+      "route": "POUPAKIS",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "SPARTAN WALL",
+      "route": "YO YO",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "SPARTAN WALL",
+      "route": "HIBISCUS MARKET PART 1",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "SPARTAN WALL",
+      "route": "OJOS DE BRUJO",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "SPARTAN WALL",
+      "route": "HIBISCUS MARKET",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "SPARTAN WALL",
+      "route": "TITANTROPE",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "SPARTAN WALL",
+      "route": "GUEST DJ",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "SPARTAN WALL",
+      "route": "THE BEGINNING AT THE END",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "SPARTAN WALL",
+      "route": "HARLEM NIGHTS",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "SPARTAN WALL",
+      "route": "SPARTAKIADA",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "SPARTAN WALL",
+      "route": "SPARTAKIADA EXT",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "SPARTAN WALL",
+      "route": "KURVA",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "SPARTAN WALL",
+      "route": "KURVA EXT",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "SPARTAN WALL",
+      "route": "PROBLÈME MINEUR",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "SPARTAN WALL",
+      "route": "CHOCOLATE GIRL LOLIPOP",
+      "job": "New separate anchor",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "2019",
+      "dateSort": "2019-00"
+    },
+    {
+      "crag": "SPARTAN WALL",
+      "route": "HOLLYWOOD WAX",
+      "job": "Extra bolts added; loose rock cleaned",
+      "hardware": "Stainless Steel Expansion 316L Marine",
+      "date": "2019",
+      "dateSort": "2019-00"
+    },
+    {
+      "crag": "STYX",
+      "route": "ZEIGENSTALL",
+      "job": "Fully rebolted; new anchor; cleaned",
+      "hardware": "Stainless Steel Expansion 316L Marine",
+      "date": "2020",
+      "dateSort": "2020-00"
+    },
+    {
+      "crag": "SUMMERTIME",
+      "route": "ASTERIAS",
+      "job": "New anchor",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "2020",
+      "dateSort": "2020-00"
+    },
+    {
+      "crag": "SUMMERTIME",
+      "route": "DILL",
+      "job": "Anchor biners added/replaced",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "November 2025",
+      "dateSort": "2025-11"
+    },
+    {
+      "crag": "SUMMERTIME",
+      "route": "SALBEI",
+      "job": "New anchor, extra bolt added",
+      "hardware": "Stainless Steel Expansion 316L Marine",
+      "date": "November 2025",
+      "dateSort": "2025-11"
+    },
+    {
+      "crag": "SUMMERTIME",
+      "route": "FRIENDS",
+      "job": "New anchor, extra bolt added",
+      "hardware": "Stainless Steel Expansion 316L Marine",
+      "date": "November 2025",
+      "dateSort": "2025-11"
+    },
+    {
+      "crag": "SUMMERTIME / MAGOULIAS",
+      "route": "TONI",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Expansion 316L Marine",
+      "date": "November 2025",
+      "dateSort": "2025-11"
+    },
+    {
+      "crag": "SYMPLEGADES",
+      "route": "JASON",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Expansion 316L Marine",
+      "date": "2024",
+      "dateSort": "2024-00"
+    },
+    {
+      "crag": "SYMPLEGADES / MAIN",
+      "route": "BUBUKI",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Expansion 316L Marine",
+      "date": "April 2025",
+      "dateSort": "2025-04"
+    },
+    {
+      "crag": "SYMPLEGADES / MAIN",
+      "route": "MUSICAL",
+      "job": "Missing hanger replaced",
+      "hardware": "Stainless Steel Expansion 316L Marine",
+      "date": "April 2025",
+      "dateSort": "2025-04"
+    },
+    {
+      "crag": "SYMPLEGADES / MAIN",
+      "route": "THE DOUBLE TWINS",
+      "job": "Anchor biners added/replaced",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "April 2025",
+      "dateSort": "2025-04"
+    },
+    {
+      "crag": "SYMPLEGADES / MYSTERY",
+      "route": "PARADISE NATURAL",
+      "job": "New anchor",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "August 2025",
+      "dateSort": "2025-08"
+    },
+    {
+      "crag": "SYMPLEGADES / MYSTERY",
+      "route": "911",
+      "job": "New anchor",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "August 2025",
+      "dateSort": "2025-08"
+    },
+    {
+      "crag": "SYMPLEGADES / MYSTERY",
+      "route": "AQUARELLA",
+      "job": "Anchor biners added/replaced, route cleaned",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "December 2023",
+      "dateSort": "2023-12"
+    },
+    {
+      "crag": "SYMPLEGADES / OURANIA",
+      "route": "FACATELENDOS",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Expansion 316L Marine",
+      "date": "April 2025",
+      "dateSort": "2025-04"
+    },
+    {
+      "crag": "SYMPLEGADES / OURANIA",
+      "route": "SPONGE BEACH",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Expansion 316L Marine",
+      "date": "April 2025",
+      "dateSort": "2025-04"
+    },
+    {
+      "crag": "TELENDOS SOUTH FACE",
+      "route": "WILD COUNTRY",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "TELENDOS SOUTH FACE",
+      "route": "WINGS FOR LIFE",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2015/16",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "THE BEACH",
+      "route": "FOUR YEARS",
+      "job": "Anchor biners added/replaced",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "July 2025",
+      "dateSort": "2025-07"
+    },
+    {
+      "crag": "THE BEACH",
+      "route": "BLUE LAGOON",
+      "job": "Anchor biners added/replaced",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "July 2025",
+      "dateSort": "2025-07"
+    },
+    {
+      "crag": "THE BEACH",
+      "route": "FAMILY BUSINESS",
+      "job": "Anchor corrected/moved",
+      "hardware": "",
+      "date": "July 2025",
+      "dateSort": "2025-07"
+    },
+    {
+      "crag": "THE BEACH",
+      "route": "PIERO + ANGELA",
+      "job": "Anchor corrected/moved",
+      "hardware": "",
+      "date": "July 2025",
+      "dateSort": "2025-07"
+    },
+    {
+      "crag": "THE BEACH",
+      "route": "LEVANTE",
+      "job": "Anchor corrected/moved",
+      "hardware": "",
+      "date": "July 2025",
+      "dateSort": "2025-07"
+    },
+    {
+      "crag": "THE BEACH",
+      "route": "BRONCHITOS",
+      "job": "Anchor corrected/moved",
+      "hardware": "",
+      "date": "July 2025",
+      "dateSort": "2025-07"
+    },
+    {
+      "crag": "THE BEACH",
+      "route": "SWEET REMY",
+      "job": "Anchor corrected/moved",
+      "hardware": "",
+      "date": "July 2025",
+      "dateSort": "2025-07"
+    },
+    {
+      "crag": "THE BEACH",
+      "route": "STARFISH",
+      "job": "New anchor",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "July 2025",
+      "dateSort": "2025-07"
+    },
+    {
+      "crag": "THE BEACH",
+      "route": "SAILOR",
+      "job": "New anchor",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "July 2025",
+      "dateSort": "2025-07"
+    },
+    {
+      "crag": "THE BEACH",
+      "route": "GOAT MEMORIAL",
+      "job": "New anchor",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "July 2025",
+      "dateSort": "2025-07"
+    },
+    {
+      "crag": "THE BEACH",
+      "route": "SEA URCHIN",
+      "job": "New anchor",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "July 2025",
+      "dateSort": "2025-07"
+    },
+    {
+      "crag": "THE BEACH",
+      "route": "SUITE",
+      "job": "New anchor",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "July 2025",
+      "dateSort": "2025-07"
+    },
+    {
+      "crag": "THE BEACH",
+      "route": "CIUCCIA BAU",
+      "job": "New anchor",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "July 2025",
+      "dateSort": "2025-07"
+    },
+    {
+      "crag": "THE BEACH",
+      "route": "ROCCO FAMILY",
+      "job": "New anchor",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "July 2025",
+      "dateSort": "2025-07"
+    },
+    {
+      "crag": "THE BEACH",
+      "route": "APOLLO'S MIRACLE",
+      "job": "New anchor",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "July 2025",
+      "dateSort": "2025-07"
+    },
+    {
+      "crag": "THE BEACH",
+      "route": "MATERIAL MAN",
+      "job": "New anchor",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "July 2025",
+      "dateSort": "2025-07"
+    },
+    {
+      "crag": "THE BEACH",
+      "route": "WHERE ARE MY BOLTS?",
+      "job": "New anchor; one broken bolt replaced",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "July 2025",
+      "dateSort": "2025-07"
+    },
+    {
+      "crag": "THE BEACH",
+      "route": "TOMBOY",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Expansion 316L Marine",
+      "date": "2020",
+      "dateSort": "2020-00"
+    },
+    {
+      "crag": "THE BEACH",
+      "route": "KARPOUZI",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Expansion 316L Marine",
+      "date": "2020",
+      "dateSort": "2020-00"
+    },
+    {
+      "crag": "TROIS ÎLOTS",
+      "route": "MINION",
+      "job": "Anchor biners added/replaced",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "September 2025",
+      "dateSort": "2025-09"
+    },
+    {
+      "crag": "TROIS ÎLOTS",
+      "route": "JOLIE EMILIE",
+      "job": "Anchor biners added/replaced",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "September 2025",
+      "dateSort": "2025-09"
+    },
+    {
+      "crag": "TROIS ÎLOTS",
+      "route": "GABOU",
+      "job": "Broken bolt replaced",
+      "hardware": "Stainless Steel Expansion 316L Marine",
+      "date": "September 2025",
+      "dateSort": "2025-09"
+    },
+    {
+      "crag": "TROIS ÎLOTS",
+      "route": "PROSCIUTTO AND CHAMPAGNE",
+      "job": "Loose blocks glued",
+      "hardware": "",
+      "date": "September 2025",
+      "dateSort": "2025-09"
+    },
+    {
+      "crag": "TROIS ÎLOTS",
+      "route": "BISES TO KATE",
+      "job": "New anchor",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "2020",
+      "dateSort": "2020-00"
+    },
+    {
+      "crag": "TROIS ÎLOTS",
+      "route": "QEEN COUINE",
+      "job": "New anchor",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "2020",
+      "dateSort": "2020-00"
+    },
+    {
+      "crag": "TROIS ÎLOTS",
+      "route": "L.A.O.T.C.O.",
+      "job": "New anchor; partially rebolted",
+      "hardware": "Stainless Steel 316L Marine",
+      "date": "2020",
+      "dateSort": "2020-00"
+    },
+    {
+      "crag": "TROIS ÎLOTS",
+      "route": "POUCE TWALDA",
+      "job": "Cleaned loose rock",
+      "hardware": "",
+      "date": "2022",
+      "dateSort": "2022-00"
+    },
+    {
+      "crag": "TROIS ÎLOTS",
+      "route": "ALLEZ GROS",
+      "job": "Cleaned loose rock",
+      "hardware": "",
+      "date": "2022",
+      "dateSort": "2022-00"
+    },
+    {
+      "crag": "TROIS ÎLOTS",
+      "route": "PAR 4",
+      "job": "Added missing bolt",
+      "hardware": "Stainless Steel Expansion 316L Marine",
+      "date": "2024",
+      "dateSort": "2024-00"
+    },
+    {
+      "crag": "VATHY / LITTLE EDEN",
+      "route": "LIVING STONE",
+      "job": "Cleaned loose rock",
+      "hardware": "",
+      "date": "2023",
+      "dateSort": "2023-00"
+    }
+  ]
+}

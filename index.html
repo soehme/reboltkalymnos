@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="theme-color" content="#0f1117" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+  <title>Rebolt Kalymnos</title>
+  <link rel="manifest" href="manifest.json" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <div class="header-top">
+      <h1>Rebolt Kalymnos</h1>
+      <span id="updated-badge" class="badge" hidden></span>
+    </div>
+    <div class="search-row">
+      <input
+        id="search"
+        type="search"
+        placeholder="Search crag or route…"
+        autocomplete="off"
+        autocorrect="off"
+        spellcheck="false"
+      />
+    </div>
+    <div id="crag-filters" class="chip-row" role="group" aria-label="Filter by crag"></div>
+  </header>
+
+  <main>
+    <p id="status" class="status">Loading…</p>
+    <p id="count" class="count" hidden></p>
+    <ul id="list" class="route-list" role="list"></ul>
+    <p id="empty" class="empty" hidden>No routes match your search.</p>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>
