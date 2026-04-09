@@ -95,6 +95,9 @@ def main():
     routes = parse_table(html)
     print(f"Found {len(routes)} routes")
 
+    if len(routes) < 500:
+        raise ValueError(f"Only {len(routes)} routes found – scraping may have failed (expected ≥500)")
+
     OUTPUT.parent.mkdir(parents=True, exist_ok=True)
     payload = {
         "updated": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
