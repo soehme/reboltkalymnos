@@ -1,11 +1,12 @@
-const CACHE = "rebolt-v1";
+const CACHE = "rebolt-v2";
 const ASSETS = [
-  "/",
-  "/index.html",
-  "/app.js",
-  "/style.css",
-  "/manifest.json",
-  "/data/routes.json",
+  "./",
+  "./index.html",
+  "./app.js",
+  "./style.css",
+  "./manifest.json",
+  "./icons/fist.svg",
+  "./data/routes.json",
 ];
 
 self.addEventListener("install", (e) => {
@@ -25,7 +26,6 @@ self.addEventListener("activate", (e) => {
 });
 
 self.addEventListener("fetch", (e) => {
-  // Network-first for data, cache-first for app shell
   const isData = e.request.url.includes("/data/routes.json");
 
   if (isData) {

@@ -2,16 +2,16 @@
   "name": "Rebolt Kalymnos",
   "short_name": "Rebolt Kalymnos",
   "description": "Kalymnos climbing route maintenance log",
-  "start_url": "/",
+  "start_url": "./",
   "display": "standalone",
   "background_color": "#111210",
   "theme_color": "#111210",
   "icons": [
     {
-      "src": "https://reboltkalymnos.org/RK-fist-white.svg",
+      "src": "./icons/fist.svg",
       "sizes": "any",
       "type": "image/svg+xml",
-      "purpose": "any maskable"
+      "purpose": "any"
     }
   ]
 }
