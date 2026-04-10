@@ -127,7 +127,12 @@ async function loadData() {
       allRouteNames.add(r.route);
     });
 
-    if (json.updated) {
+    if (json.siteUpdated) {
+      // siteUpdated is "YYYY-MM-DD" — parse as local date to avoid UTC offset shifting the day
+      const [y, mo, day] = json.siteUpdated.split("-").map(Number);
+      const d = new Date(y, mo - 1, day);
+      $menuUpdated.textContent = d.toLocaleDateString("en-GB", { day: "numeric", month: "short", year: "numeric" });
+    } else if (json.updated) {
       const d = new Date(json.updated);
       $menuUpdated.textContent = d.toLocaleDateString("en-GB", { day: "numeric", month: "short", year: "numeric" });
     }

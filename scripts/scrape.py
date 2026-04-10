@@ -49,6 +49,20 @@ def fetch_html(url):
         return resp.read().decode("utf-8")
 
 
+def parse_site_updated(html):
+    """Extract the 'Last updated: DD Month YYYY' date from the page."""
+    m = re.search(r"Last updated[:\s]+(\d{1,2}\s+\w+\s+\d{4})", html, re.IGNORECASE)
+    if not m:
+        return None
+    text = m.group(1).strip()
+    # Parse "09 April 2026" → "2026-04-09"
+    try:
+        dt = datetime.strptime(text, "%d %B %Y")
+        return dt.strftime("%Y-%m-%d")
+    except ValueError:
+        return None
+
+
 def parse_table(html):
     """Extract table rows without external dependencies."""
     # Find tbody content
@@ -98,9 +112,13 @@ def main():
     if len(routes) < 500:
         raise ValueError(f"Only {len(routes)} routes found – scraping may have failed (expected ≥500)")
 
+    site_updated = parse_site_updated(html)
+    print(f"Site updated: {site_updated or '(not found)'}")
+
     OUTPUT.parent.mkdir(parents=True, exist_ok=True)
     payload = {
         "updated": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
+        "siteUpdated": site_updated,
         "count": len(routes),
         "routes": routes,
     }
