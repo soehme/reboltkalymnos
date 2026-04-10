@@ -193,12 +193,15 @@ function showAutocomplete(q) {
   const ql = q.toLowerCase();
   const suggestions = [];
 
-  // Year filter: "20", "202", "201", "200" → last 5 matching years desc; exact 4-digit year → single
-  if (/^2\d{1,3}$/.test(q)) {
-    const currentYear = new Date().getFullYear();
+  // Year filter: "26"/"24" → 20XX suffix; "20"/"202" → prefix list; "2024" → exact
+  const currentYear = new Date().getFullYear();
+  if (/^(2\d{1,3}|\d{2})$/.test(q)) {
     if (q.length === 4) {
       const y = parseInt(q, 10);
       if (y >= 2000 && y <= currentYear) suggestions.push({ label: q, type: "year" });
+    } else if (q.length === 2 && !q.startsWith("20")) {
+      const y = 2000 + parseInt(q, 10);
+      if (y <= currentYear) suggestions.push({ label: String(y), type: "year" });
     } else {
       const candidates = [];
       for (let y = currentYear; y >= 2000; y--) {
