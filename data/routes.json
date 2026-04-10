@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-09T19:58:13Z",
-  "count": 697,
+  "updated": "2026-04-10T06:38:48Z",
+  "count": 696,
   "routes": [
     {
       "crag": "AFTERNOON",
@@ -909,14 +909,6 @@
     {
       "crag": "ARHI",
       "route": "SCACCO",
-      "job": "Fully rebolted",
-      "hardware": "Stainless Steel Expansion 316L",
-      "date": "2015/16",
-      "dateSort": "2015-00"
-    },
-    {
-      "crag": "ARHI",
-      "route": "PARES",
       "job": "Fully rebolted",
       "hardware": "Stainless Steel Expansion 316L",
       "date": "2015/16",
