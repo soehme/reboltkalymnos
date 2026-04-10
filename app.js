@@ -16,8 +16,8 @@ const $status       = document.getElementById("status");
 const $count        = document.getElementById("count");
 const $empty        = document.getElementById("empty");
 const $burger       = document.getElementById("burger");
-const $overlay      = document.getElementById("menu-overlay");
-const $drawer       = document.getElementById("menu-drawer");
+const $menuNav      = document.getElementById("menu-nav");
+const $menuClose    = document.getElementById("menu-close");
 const $menuUpdated  = document.getElementById("menu-updated");
 const $app          = document.getElementById("app");
 const $btnBack      = document.getElementById("btn-back");
@@ -47,18 +47,21 @@ $btnCrag.addEventListener("click", () => {
   addTerm(activeRoute.crag, "crag");
 });
 
-// ── Burger menu ───────────────────────────────────────────────────────────────
+// ── Wrench menu ──────────────────────────────────────────────────────────────
 function openMenu() {
-  $overlay.hidden = false;
-  $drawer.classList.add("open");
+  $menuNav.classList.add("open");
+  $burger.classList.add("menu-open");
   $burger.setAttribute("aria-expanded", "true");
-  $drawer.setAttribute("aria-hidden", "false");
+  $menuNav.setAttribute("aria-hidden", "false");
 }
 function closeMenu() {
-  $overlay.hidden = true;
-  $drawer.classList.remove("open");
+  $menuNav.classList.remove("open");
+  $burger.classList.remove("menu-open");
   $burger.setAttribute("aria-expanded", "false");
-  $drawer.setAttribute("aria-hidden", "true");
+  $menuNav.setAttribute("aria-hidden", "true");
+}
+function toggleMenu() {
+  $menuNav.classList.contains("open") ? closeMenu() : openMenu();
 }
 // ── Android install prompt ────────────────────────────────────────────────────
 let deferredPrompt = null;
@@ -95,25 +98,14 @@ $iosBannerClose.addEventListener("click", () => {
   localStorage.setItem("rk-install-dismissed", "1");
 });
 
-$burger.addEventListener("click", openMenu);
-$overlay.addEventListener("click", closeMenu);
-
-// ── Swipe-to-close ────────────────────────────────────────────────────────────
-let swipeStartY = 0;
-$drawer.addEventListener("touchstart", (e) => {
-  swipeStartY = e.touches[0].clientY;
-  $drawer.style.transition = "none";
-}, { passive: true });
-$drawer.addEventListener("touchmove", (e) => {
-  const delta = e.touches[0].clientY - swipeStartY;
-  if (delta > 0) $drawer.style.transform = `translateY(${delta}px)`;
-}, { passive: true });
-$drawer.addEventListener("touchend", (e) => {
-  $drawer.style.transition = "";
-  const delta = e.changedTouches[0].clientY - swipeStartY;
-  $drawer.style.transform = "";
-  if (delta > 80) closeMenu();
+$burger.addEventListener("click", toggleMenu);
+$menuClose.addEventListener("click", closeMenu);
+document.addEventListener("keydown", (e) => {
+  if (e.key === "Escape" && $menuNav.classList.contains("open")) closeMenu();
 });
+
+// Reload button
+document.getElementById("btn-reload").addEventListener("click", () => location.reload());
 
 // ── Init ──────────────────────────────────────────────────────────────────────
 if ("serviceWorker" in navigator) navigator.serviceWorker.register("sw.js");
@@ -137,7 +129,7 @@ async function loadData() {
 
     if (json.updated) {
       const d = new Date(json.updated);
-      $menuUpdated.textContent = `Updated ${d.toLocaleDateString("en-GB", { day: "numeric", month: "short", year: "numeric" })}`;
+      $menuUpdated.textContent = d.toLocaleDateString("en-GB", { day: "numeric", month: "short", year: "numeric" });
     }
 
     $status.hidden = true;

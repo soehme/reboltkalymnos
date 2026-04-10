@@ -28,11 +28,21 @@
           <img src="icons/rk-logo-white.svg" alt="Rebolt Kalymnos" class="logo" />
         </picture>
       </a>
-      <button id="burger" class="burger" aria-label="Info" aria-expanded="false">
-        <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
-          <circle cx="12" cy="12" r="10"/>
-          <path d="M12 16v-4M12 8h.01"/>
-        </svg>
+      <button id="burger" class="burger" aria-label="Menu" aria-expanded="false">
+        <div class="icon-wrap">
+          <svg class="icon-wrench" viewBox="0 0 24 24" width="28" height="28" fill="currentColor" aria-hidden="true">
+            <g transform="rotate(40 12 12)">
+              <rect x="10.7" y="5" width="2.6" height="14" rx="1.2"/>
+              <circle cx="12" cy="5" r="4.5"/>
+              <polygon points="14.77,5 13.39,7.4 10.61,7.4 9.23,5 10.61,2.6 13.39,2.6" style="fill: var(--bg)"/>
+              <circle cx="12" cy="19" r="3.6"/>
+              <polygon points="14.19,19 13.1,20.9 10.9,20.9 9.81,19 10.9,17.1 13.1,17.1" style="fill: var(--bg)"/>
+            </g>
+          </svg>
+          <svg class="icon-close" viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" aria-hidden="true">
+            <path d="M18 6L6 18M6 6l12 12"/>
+          </svg>
+        </div>
       </button>
     </div>
     <div class="search-wrapper">
@@ -102,24 +112,53 @@
 
   </div><!-- /.app -->
 
-  <!-- Burger menu -->
-  <div id="menu-overlay" class="menu-overlay" hidden></div>
-  <div id="menu-drawer" class="menu-drawer" aria-hidden="true">
-    <div class="menu-handle"></div>
-    <div class="menu-actions">
-      <button id="btn-install" class="btn-action" hidden>Install App</button>
-      <a href="https://www.paypal.com/donate?hosted_button_id=KAPNTJCPV2BWA" target="_blank" rel="noopener" class="btn-action">Donate</a>
-      <a href="https://baserow.io/form/py5Vu2kY0YDMY1i7iO1_ddMspuyz7D48OJ7Urrvh0fY" target="_blank" rel="noopener" class="btn-action">Report an issue</a>
+  <!-- Wrench menu -->
+  <nav id="menu-nav" class="menu-nav" aria-hidden="true">
+    <div class="menu-header">
+      <a href="https://reboltkalymnos.org" target="_blank" rel="noopener">
+        <picture>
+          <source srcset="icons/rk-logo-dark.svg" media="(prefers-color-scheme: light)" />
+          <img src="icons/rk-logo-white.svg" alt="Rebolt Kalymnos" class="logo" />
+        </picture>
+      </a>
+      <button id="menu-close" class="burger" aria-label="Close menu">
+        <div class="icon-wrap">
+          <svg class="icon-close icon-close--visible" viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" aria-hidden="true">
+            <path d="M18 6L6 18M6 6l12 12"/>
+          </svg>
+        </div>
+      </button>
     </div>
-    <p class="menu-credit">
-      Data from <a href="https://reboltkalymnos.org/rebolt-log/" target="_blank" rel="noopener">reboltkalymnos.org</a> —
-      maintained by the Rebolt Kalymnos volunteers.<br>
-      This is an unofficial mobile view.<br><br>
-      <strong>Tip:</strong> Add this app to your home screen to use it offline —
-      even without internet the last loaded data stays available.
-    </p>
-    <span id="menu-updated" class="menu-updated"></span>
-  </div>
+    <div class="menu-items">
+      <a href="https://www.paypal.com/donate?hosted_button_id=KAPNTJCPV2BWA" target="_blank" rel="noopener" class="nav-item">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78L12 21.23l8.84-8.84a5.5 5.5 0 0 0 0-7.78z"/></svg>
+        Donate
+      </a>
+      <a href="https://baserow.io/form/py5Vu2kY0YDMY1i7iO1_ddMspuyz7D48OJ7Urrvh0fY" target="_blank" rel="noopener" class="nav-item">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="M12 8v4M12 16h.01"/></svg>
+        Report an issue
+      </a>
+      <button id="btn-install" class="nav-item" hidden>
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+        Install App
+      </button>
+      <div class="nav-divider"></div>
+      <button class="nav-item" id="btn-reload">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><polyline points="23 4 23 10 17 10"/><path d="M20.49 15a9 9 0 1 1-2.12-9.36L23 10"/></svg>
+        <span>Last update: <span id="menu-updated"></span></span>
+      </button>
+      <a href="https://reboltkalymnos.org/#social" target="_blank" rel="noopener" class="nav-item">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/></svg>
+        Imprint
+      </a>
+      <div class="nav-divider"></div>
+      <div class="nav-credit">
+        Data from <a href="https://reboltkalymnos.org/rebolt-log/" target="_blank" rel="noopener">reboltkalymnos.org</a><br>
+        maintained by Rebolt Kalymnos volunteers<br>
+        Unofficial mobile view
+      </div>
+    </div>
+  </nav>
 
   <div id="ios-banner" class="ios-banner" hidden>
     <span>Tippe auf <strong>⬆</strong> → <strong>Zum Home-Bildschirm</strong> für Offline-Nutzung</span>
