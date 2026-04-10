@@ -19,8 +19,33 @@ const $burger       = document.getElementById("burger");
 const $overlay      = document.getElementById("menu-overlay");
 const $drawer       = document.getElementById("menu-drawer");
 const $menuUpdated  = document.getElementById("menu-updated");
+const $app          = document.getElementById("app");
+const $btnBack      = document.getElementById("btn-back");
+const $btnCrag      = document.getElementById("btn-crag-filter");
+
+let activeRoute = null;
 
 let acIndex = -1;
+
+// ── Detail panel ─────────────────────────────────────────────────────────────
+function openDetail(r) {
+  activeRoute = r;
+  document.getElementById("detail-name").textContent     = r.route;
+  document.getElementById("detail-job").textContent      = r.job;
+  document.getElementById("detail-date").textContent     = r.date;
+  document.getElementById("detail-hardware").textContent = r.hardware;
+  document.getElementById("detail-hardware-field").hidden = !r.hardware;
+  document.getElementById("detail-crag").textContent     = r.crag;
+  $app.classList.add("detail-open");
+}
+function closeDetail() {
+  $app.classList.remove("detail-open");
+}
+$btnBack.addEventListener("click", closeDetail);
+$btnCrag.addEventListener("click", () => {
+  closeDetail();
+  addTerm(activeRoute.crag, "crag");
+});
 
 // ── Burger menu ───────────────────────────────────────────────────────────────
 function openMenu() {
@@ -305,6 +330,7 @@ function card(r) {
     <div class="job">${esc(r.job)}<span class="date"> · ${esc(r.date)}</span></div>
     ${r.hardware ? `<div class="hardware">${esc(r.hardware)}</div>` : ""}
   `;
+  li.addEventListener("click", () => openDetail(r));
   return li;
 }
 

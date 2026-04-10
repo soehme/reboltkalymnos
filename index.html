@@ -18,6 +18,8 @@
   </script>
 </head>
 <body>
+  <div class="app" id="app">
+  <div class="panel">
   <header>
     <div class="header-row">
       <a href="https://reboltkalymnos.org" target="_blank" rel="noopener">
@@ -57,6 +59,48 @@
     <ul id="list" class="route-list" role="list"></ul>
     <p id="empty" class="empty" hidden>No routes match your search.</p>
   </main>
+  </div><!-- /.panel -->
+
+  <!-- DETAIL PANEL -->
+  <div class="panel detail-panel">
+    <div class="detail-header">
+      <button class="btn-back" id="btn-back">
+        <svg width="10" height="17" viewBox="0 0 10 17" fill="none">
+          <path d="M9 1L1.5 8.5L9 16" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+        Back
+      </button>
+    </div>
+    <div class="detail-body">
+      <div class="detail-fields">
+        <div class="detail-field">
+          <label>Route</label>
+          <p id="detail-name" class="detail-route-name"></p>
+        </div>
+        <div class="detail-field">
+          <label>Maintenance</label>
+          <p id="detail-job"></p>
+        </div>
+        <div class="detail-field">
+          <label>Date</label>
+          <p id="detail-date"></p>
+        </div>
+        <div class="detail-field" id="detail-hardware-field">
+          <label>Hardware</label>
+          <p id="detail-hardware"></p>
+        </div>
+        <div class="detail-field">
+          <label>Crag</label>
+          <button class="btn-crag-filter" id="btn-crag-filter">
+            <span id="detail-crag"></span>
+            <svg width="8" height="13" viewBox="0 0 8 13" fill="none"><path d="M1 1L7 6.5L1 12" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+          </button>
+        </div>
+      </div>
+    </div>
+  </div><!-- /.detail-panel -->
+
+  </div><!-- /.app -->
 
   <!-- Burger menu -->
   <div id="menu-overlay" class="menu-overlay" hidden></div>
