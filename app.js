@@ -168,10 +168,26 @@ function showAutocomplete(q) {
   const ql = q.toLowerCase();
   const suggestions = [];
 
+  // Year filter: "20", "202", "201", "200" → last 5 matching years desc; exact 4-digit year → single
+  if (/^2\d{1,3}$/.test(q)) {
+    const currentYear = new Date().getFullYear();
+    if (q.length === 4) {
+      const y = parseInt(q, 10);
+      if (y >= 2000 && y <= currentYear) suggestions.push({ label: q, type: "year" });
+    } else {
+      const candidates = [];
+      for (let y = currentYear; y >= 2000; y--) {
+        if (String(y).startsWith(q)) candidates.push(y);
+        if (candidates.length >= 5) break;
+      }
+      candidates.forEach((y) => suggestions.push({ label: String(y), type: "year" }));
+    }
+  }
+
   // Crags first
   for (const crag of allCrags) {
-    if (crag.toLowerCase().includes(ql)) suggestions.push({ label: crag, type: "crag" });
     if (suggestions.length >= 4) break;
+    if (crag.toLowerCase().includes(ql)) suggestions.push({ label: crag, type: "crag" });
   }
 
   // Then routes (up to total of 8)
@@ -216,6 +232,11 @@ function highlightAc(items) {
 function addTerm(label, type) {
   // Avoid duplicates
   if (activeTerms.some((t) => t.label.toLowerCase() === label.toLowerCase())) return;
+  // Year: replace existing year filter
+  if (type === "year") {
+    const idx = activeTerms.findIndex((t) => t.type === "year");
+    if (idx !== -1) activeTerms.splice(idx, 1);
+  }
   activeTerms.push({ label, type: type || "text" });
   renderChips();
   render();
@@ -232,7 +253,9 @@ function renderChips() {
   activeTerms.forEach((t, i) => {
     const chip = document.createElement("span");
     chip.className = `chip chip--${t.type}`;
-    chip.innerHTML = `<span class="chip-label">${esc(t.label)}</span><span class="chip-type">${t.type === "text" ? "" : t.type}</span><button class="chip-remove" aria-label="Remove ${esc(t.label)}">×</button>`;
+    const chipDisplay = t.type === "year" ? `since ${esc(t.label)}` : esc(t.label);
+    const chipTypeLabel = t.type === "text" || t.type === "year" ? "" : t.type;
+    chip.innerHTML = `<span class="chip-label">${chipDisplay}</span><span class="chip-type">${chipTypeLabel}</span><button class="chip-remove" aria-label="Remove ${esc(t.label)}">×</button>`;
     chip.querySelector(".chip-remove").addEventListener("click", () => removeTerm(i));
     $chips.appendChild(chip);
   });
@@ -259,6 +282,11 @@ function matchesTerm(route, term) {
   const q = term.label.toLowerCase();
   if (term.type === "crag")  return route.crag.toLowerCase() === q;
   if (term.type === "route") return route.route.toLowerCase() === q;
+  if (term.type === "year") {
+    const ds = route.dateSort || "";
+    if (!ds || ds.startsWith("0000")) return false;
+    return ds.slice(0, 4) >= term.label;
+  }
   // free text: match anywhere
   return (
     route.crag.toLowerCase().includes(q) ||

@@ -138,6 +138,7 @@ header {
 }
 .ac-type--crag  { background: rgba(90,143,196,0.2); color: var(--accent); }
 .ac-type--route { background: rgba(255,255,255,0.08); color: rgba(240,237,232,0.6); }
+.ac-type--year  { background: rgba(120,200,120,0.15); color: rgba(120,200,120,0.9); }
 
 /* ── Search term chips ───────────────────────────────────────────────────── */
 .chips-row {
@@ -160,6 +161,7 @@ header {
 .chip--crag  { background: rgba(90,143,196,0.15); border-color: var(--accent); color: var(--accent); }
 .chip--route { background: rgba(255,255,255,0.07); border-color: rgba(255,255,255,0.25); color: rgba(240,237,232,0.8); }
 .chip--text  { background: rgba(255,255,255,0.07); border-color: rgba(255,255,255,0.25); color: rgba(240,237,232,0.8); }
+.chip--year  { background: rgba(120,200,120,0.1); border-color: rgba(120,200,120,0.5); color: rgba(120,200,120,0.95); }
 
 .chip-type {
   font-size: 9px;
@@ -382,6 +384,13 @@ main {
 
   .ac-type--crag  { background: rgba(26,86,219,0.1); color: var(--accent); }
   .ac-type--route { background: rgba(0,0,0,0.06); color: rgba(17,24,39,0.5); }
+  .ac-type--year  { background: rgba(40,140,40,0.1); color: rgba(30,110,30,0.9); }
+
+  .chip--year {
+    background: rgba(30,120,30,0.12);
+    border-color: rgba(30,120,30,0.5);
+    color: rgb(20, 90, 20);
+  }
 
   .chip--route, .chip--text {
     background: rgba(0,0,0,0.05);
