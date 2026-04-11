@@ -108,7 +108,12 @@ document.addEventListener("keydown", (e) => {
 document.getElementById("btn-reload").addEventListener("click", () => location.reload());
 
 // ── Init ──────────────────────────────────────────────────────────────────────
-if ("serviceWorker" in navigator) navigator.serviceWorker.register("sw.js");
+if ("serviceWorker" in navigator) {
+  navigator.serviceWorker.register("sw.js");
+  navigator.serviceWorker.addEventListener("controllerchange", () => {
+    window.location.reload();
+  });
+}
 loadData();
 
 // ── Data loading ──────────────────────────────────────────────────────────────
