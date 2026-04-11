@@ -1,4 +1,4 @@
-const CACHE = "rebolt-v4";
+const CACHE = "rebolt-v5";
 const ASSETS = [
   "./",
   "./index.html",
