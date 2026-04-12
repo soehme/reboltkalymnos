@@ -1,7 +1,7 @@
 {
-  "updated": "2026-04-11T06:24:22Z",
-  "siteUpdated": "2026-04-09",
-  "count": 696,
+  "updated": "2026-04-12T06:34:39Z",
+  "siteUpdated": "2026-04-11",
+  "count": 742,
   "routes": [
     {
       "crag": "AFTERNOON",
@@ -3213,14 +3213,6 @@
     },
     {
       "crag": "ODYSSEY",
-      "route": "KULTURISTIKA",
-      "job": "Fully rebolted",
-      "hardware": "Stainless Steel Glue-In 316L",
-      "date": "2015/16",
-      "dateSort": "2015-00"
-    },
-    {
-      "crag": "ODYSSEY",
       "route": "ARUGLIOPOULOS",
       "job": "Fully rebolted",
       "hardware": "Stainless Steel Glue-In 316L",
@@ -3290,6 +3282,382 @@
       "hardware": "Stainless Steel 316L Marine",
       "date": "2021",
       "dateSort": "2021-00"
+    },
+    {
+      "crag": "ODYSSEY",
+      "route": "BONNIE",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In Bolts 316L and Expansion Anchors 12mm",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "ODYSSEY",
+      "route": "CLYDE",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In Bolts 316L and Expansion Anchors 12mm",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "ODYSSEY",
+      "route": "MYTHOS",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In Bolts 316L and Expansion Anchors 12mm",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "ODYSSEY",
+      "route": "ELIES",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In Bolts 316L and Expansion Anchors 12mm",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "ODYSSEY",
+      "route": "FETA",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In Bolts 316L and Expansion Anchors 12mm",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "ODYSSEY",
+      "route": "MOON BRIDGE",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In Bolts 316L and Expansion Anchors 12mm",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "ODYSSEY",
+      "route": "ISLAND IN THE SUN",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In Bolts 316L and Expansion Anchors 12mm",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "ODYSSEY",
+      "route": "LUCKY STRIKE",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In Bolts 316L and Expansion Anchors 12mm",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "ODYSSEY",
+      "route": "ISLAND HIGHWAY",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In Bolts 316L and Expansion Anchors 12mm",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "ODYSSEY",
+      "route": "IL GIGANTE E LA BAMBINA",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In Bolts 316L and Expansion Anchors 12mm",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "ODYSSEY",
+      "route": "SATYROS",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In Bolts 316L and Expansion Anchors 12mm",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "ODYSSEY",
+      "route": "ANDROMEDA",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In Bolts 316L and Expansion Anchors 12mm",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "ODYSSEY",
+      "route": "ORION",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In Bolts 316L and Expansion Anchors 12mm",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "ODYSSEY",
+      "route": "LUCKY LUCA",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In Bolts 316L and Expansion Anchors 12mm",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "ODYSSEY",
+      "route": "LUCKY LUCA EXT",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In Bolts 316L and Expansion Anchors 12mm",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "ODYSSEY",
+      "route": "ODISSEO",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In Bolts 316L and Expansion Anchors 12mm",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "ODYSSEY",
+      "route": "FOUSKA",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In Bolts 316L and Expansion Anchors 12mm",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "ODYSSEY",
+      "route": "GAIA",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In Bolts 316L and Expansion Anchors 12mm",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "ODYSSEY",
+      "route": "POLIFEMO",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In Bolts 316L and Expansion Anchors 12mm",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "ODYSSEY",
+      "route": "ALFREDO ALFREDO",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In Bolts 316L and Expansion Anchors 12mm",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "ODYSSEY",
+      "route": "WHY NOT",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In Bolts 316L and Expansion Anchors 12mm",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "ODYSSEY",
+      "route": "IMIA",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In Bolts 316L and Expansion Anchors 12mm",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "ODYSSEY",
+      "route": "EUMEO",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In Bolts 316L and Expansion Anchors 12mm",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "ODYSSEY",
+      "route": "ARGO",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In Bolts 316L and Expansion Anchors 12mm",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "ODYSSEY",
+      "route": "ARGO NAVIS",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In Bolts 316L and Expansion Anchors 12mm",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "ODYSSEY",
+      "route": "TELEMACO",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In Bolts 316L and Expansion Anchors 12mm",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "ODYSSEY",
+      "route": "PENELOPE",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In Bolts 316L and Expansion Anchors 12mm",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "ODYSSEY",
+      "route": "LESTRYGON",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In Bolts 316L and Expansion Anchors 12mm",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "ODYSSEY",
+      "route": "HARYVDI",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In Bolts 316L and Expansion Anchors 12mm",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "ODYSSEY",
+      "route": "MIKROTERA KALAMARAKIA",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In Bolts 316L and Expansion Anchors 12mm",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "ODYSSEY",
+      "route": "MERMIZELI",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In Bolts 316L and Expansion Anchors 12mm",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "ODYSSEY",
+      "route": "POLY RETSINA NO GOOD",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In Bolts 316L and Expansion Anchors 12mm",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "ODYSSEY",
+      "route": "ITACA",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In Bolts 316L and Expansion Anchors 12mm",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "ODYSSEY",
+      "route": "CIAO VECCHIO",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In Bolts 316L and Expansion Anchors 12mm",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "ODYSSEY",
+      "route": "ULISSE COPERTO DI SALE",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In Bolts 316L and Expansion Anchors 12mm",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "ODYSSEY",
+      "route": "CALIPSO",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In Bolts 316L and Expansion Anchors 12mm",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "ODYSSEY",
+      "route": "ALCINOO",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In Bolts 316L and Expansion Anchors 12mm",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "ODYSSEY",
+      "route": "DIONYSOS",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In Bolts 316L and Expansion Anchors 12mm",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "ODYSSEY",
+      "route": "OMIROS",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In Bolts 316L and Expansion Anchors 12mm",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "ODYSSEY",
+      "route": "ATENA",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In Bolts 316L and Expansion Anchors 12mm",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "ODYSSEY",
+      "route": "CIRCE",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In Bolts 316L and Expansion Anchors 12mm",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "ODYSSEY",
+      "route": "FEMIO",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In Bolts 316L and Expansion Anchors 12mm",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "ODYSSEY",
+      "route": "LAERTES",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In Bolts 316L and Expansion Anchors 12mm",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "ODYSSEY",
+      "route": "NESSUNO",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In Bolts 316L and Expansion Anchors 12mm",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "ODYSSEY",
+      "route": "KULTURISTIKA",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Expansion Bolts 316L",
+      "date": "2015",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "ODYSSEY",
+      "route": "MELTEMI",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In Bolts 316L",
+      "date": "2015",
+      "dateSort": "2015-00"
+    },
+    {
+      "crag": "ODYSSEY",
+      "route": "FOURTOUNA",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In Bolts 316L",
+      "date": "2015",
+      "dateSort": "2015-00"
     },
     {
       "crag": "OLYMPIC WALL",
