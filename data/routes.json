@@ -1,7 +1,7 @@
 {
-  "updated": "2026-04-12T06:34:39Z",
-  "siteUpdated": "2026-04-11",
-  "count": 742,
+  "updated": "2026-04-13T07:52:10Z",
+  "siteUpdated": "2026-04-12",
+  "count": 743,
   "routes": [
     {
       "crag": "AFTERNOON",
@@ -5618,6 +5618,14 @@
       "hardware": "Stainless Steel Expansion 316L Marine",
       "date": "2024",
       "dateSort": "2024-00"
+    },
+    {
+      "crag": "SYMPLEGADES (MYSTERY)",
+      "route": "OLYMBIAKOS",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "2026",
+      "dateSort": "2026-00"
     },
     {
       "crag": "SYMPLEGADES / MAIN",
