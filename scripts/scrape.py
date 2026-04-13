@@ -10,7 +10,8 @@ import urllib.request
 from datetime import datetime, timezone
 from pathlib import Path
 
-URL = "https://reboltkalymnos.org/rebolt-log/"
+PAGE_URL = "https://reboltkalymnos.org/rebolt-log/"
+CSV_URL = "https://reboltkalymnos.org/CSV.csv"
 OUTPUT = Path(__file__).parent.parent / "data" / "routes.json"
 
 MONTH_MAP = {
@@ -39,7 +40,7 @@ def parse_date_sort(text):
     return "0000-00"
 
 
-def fetch_html(url):
+def fetch_text(url):
     req = urllib.request.Request(url, headers={
         "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1",
         "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
@@ -63,50 +64,38 @@ def parse_site_updated(html):
         return None
 
 
-def parse_table(html):
-    """Extract table rows without external dependencies."""
-    # Find tbody content
-    tbody_match = re.search(r"<tbody[^>]*>(.*?)</tbody>", html, re.DOTALL | re.IGNORECASE)
-    if not tbody_match:
-        raise ValueError("No <tbody> found in page")
-
-    tbody = tbody_match.group(1)
-    rows = re.findall(r"<tr[^>]*>(.*?)</tr>", tbody, re.DOTALL | re.IGNORECASE)
-
+def parse_csv(text):
+    """Parse the CSV data into route dicts."""
+    import csv
+    import io
+    reader = csv.DictReader(io.StringIO(text))
     routes = []
-    for row in rows:
-        cells = re.findall(r"<td[^>]*>(.*?)</td>", row, re.DOTALL | re.IGNORECASE)
-        if len(cells) < 5:
-            continue
-
-        def clean(s):
-            import html
-            s = re.sub(r"<[^>]+>", "", s)
-            s = html.unescape(s)
-            return s.strip()
-
-        crag, route, job, hardware, date = [clean(c) for c in cells[:5]]
+    for row in reader:
+        crag = row.get("CRAG", "").strip()
+        route = row.get("ROUTE", "").strip()
         if not crag and not route:
             continue
-
+        date = row.get("DATE", "").strip()
         routes.append({
             "crag": crag,
             "route": route,
-            "job": job,
-            "hardware": hardware,
+            "job": row.get("JOB", "").strip(),
+            "hardware": row.get("HARDWARE", "").strip(),
             "date": date,
             "dateSort": parse_date_sort(date),
         })
-
     return routes
 
 
 def main():
-    print(f"Fetching {URL} ...")
-    html = fetch_html(URL)
+    print(f"Fetching {PAGE_URL} ...")
+    html = fetch_text(PAGE_URL)
 
-    print("Parsing table ...")
-    routes = parse_table(html)
+    print(f"Fetching {CSV_URL} ...")
+    csv_text = fetch_text(CSV_URL)
+
+    print("Parsing CSV ...")
+    routes = parse_csv(csv_text)
     print(f"Found {len(routes)} routes")
 
     if len(routes) < 500:
