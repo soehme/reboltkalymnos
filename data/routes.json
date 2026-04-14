@@ -1,7 +1,7 @@
 {
-  "updated": "2026-04-13T07:52:10Z",
-  "siteUpdated": "2026-04-12",
-  "count": 743,
+  "updated": "2026-04-14T06:39:04Z",
+  "siteUpdated": "2026-04-14",
+  "count": 747,
   "routes": [
     {
       "crag": "AFTERNOON",
@@ -624,6 +624,14 @@
       "route": "HARD PRIMAL",
       "job": "Fully rebolted",
       "hardware": "Stainless Steel Glue-In 316L",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "ARGINONTA",
+      "route": "NO MERCY",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
       "date": "2026",
       "dateSort": "2026-00"
     },
@@ -4498,6 +4506,30 @@
       "hardware": "Stainless Steel Expansion 316L Marine",
       "date": "2019",
       "dateSort": "2019-00"
+    },
+    {
+      "crag": "POETS (IANNIS)",
+      "route": "ATTITUDE",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "POETS (IANNIS)",
+      "route": "ADOLF IN THE BAY",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "POETS (IANNIS)",
+      "route": "VERIKOKO",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "2026",
+      "dateSort": "2026-00"
     },
     {
       "crag": "POETS / IANNIS",
