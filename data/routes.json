@@ -1,7 +1,7 @@
 {
-  "updated": "2026-04-15T06:39:20Z",
-  "siteUpdated": "2026-04-14",
-  "count": 747,
+  "updated": "2026-04-16T06:39:48Z",
+  "siteUpdated": "2026-04-15",
+  "count": 794,
   "routes": [
     {
       "crag": "AFTERNOON",
@@ -1946,6 +1946,150 @@
       "hardware": "Stainless Steel Glue-In 316L",
       "date": "2015/16",
       "dateSort": "2015-00"
+    },
+    {
+      "crag": "ILIADA",
+      "route": "ILIADA",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In Bolts 316L and Expansion Anchors 12mm",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "ILIADA",
+      "route": "IFIGENIA",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In Bolts 316L and Expansion Anchors 12mm",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "ILIADA",
+      "route": "MIRMIDONS",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In Bolts 316L and Expansion Anchors 12mm",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "ILIADA",
+      "route": "PATROCLE",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In Bolts 316L and Expansion Anchors 12mm",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "ILIADA",
+      "route": "KALHAS",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In Bolts 316L and Expansion Anchors 12mm",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "ILIADA",
+      "route": "ARCHIMEDES",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In Bolts 316L and Expansion Anchors 12mm",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "ILIADA",
+      "route": "PRIAMOS",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In Bolts 316L and Expansion Anchors 12mm",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "ILIADA",
+      "route": "MYTHOLOGIE",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In Bolts 316L and Expansion Anchors 12mm",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "ILIADA",
+      "route": "EKAVI",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In Bolts 316L and Expansion Anchors 12mm",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "ILIADA",
+      "route": "PARIS",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In Bolts 316L and Expansion Anchors 12mm",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "ILIADA",
+      "route": "POLIPITIS",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In Bolts 316L and Expansion Anchors 12mm",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "ILIADA",
+      "route": "ZORBA LE GROS",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In Bolts 316L and Expansion Anchors 12mm",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "ILIADA",
+      "route": "NESTORAS",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In Bolts 316L and Expansion Anchors 12mm",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "ILIADA",
+      "route": "EKTOR",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In Bolts 316L and Expansion Anchors 12mm",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "ILIADA",
+      "route": "BEAUTIFUL HELEN",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In Bolts 316L and Expansion Anchors 12mm",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "ILIADA",
+      "route": "ANTILOHOS",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In Bolts 316L and Expansion Anchors 12mm",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "ILIADA",
+      "route": "MENELAOS",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In Bolts 316L and Expansion Anchors 12mm",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "ILIADA",
+      "route": "PADRONI E PAGLIACCI",
+      "job": "Fully rebolted",
+      "hardware": "Stainless Steel Glue-In Bolts 316L and Expansion Anchors 12mm",
+      "date": "2026",
+      "dateSort": "2026-00"
     },
     {
       "crag": "IROX",
@@ -5412,6 +5556,230 @@
       "dateSort": "2023-00"
     },
     {
+      "crag": "SPARTACUS",
+      "route": "GEISSEN SCHNUCKI",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "SPARTACUS",
+      "route": "ZIEGENPETER",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "SPARTACUS",
+      "route": "ASTREE",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "SPARTACUS",
+      "route": "CHARIOTS OF FIRE",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "SPARTACUS",
+      "route": "VANGELIS CONNECTION",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "SPARTACUS",
+      "route": "PYGMALION",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "SPARTACUS",
+      "route": "MAGNETUS",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "SPARTACUS",
+      "route": "ALEXIS ZORBAS",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "SPARTACUS",
+      "route": "ARENA",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "SPARTACUS",
+      "route": "JELLYFISH PIE",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "SPARTACUS",
+      "route": "KERVEROS",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "SPARTACUS",
+      "route": "KERVEROS EXT",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "SPARTACUS",
+      "route": "KERVERIAS",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "SPARTACUS",
+      "route": "NESKA POLITA",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "SPARTACUS",
+      "route": "DANIBOY",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "SPARTACUS",
+      "route": "SPARTACUS",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "SPARTACUS",
+      "route": "SPARTACUS MAXIMUS",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "SPARTACUS",
+      "route": "GLADIATOR",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "SPARTACUS",
+      "route": "HARAKIRI",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "SPARTACUS",
+      "route": "TZATZIKI VIKIKI",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "SPARTACUS",
+      "route": "KING COBRA",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "SPARTACUS",
+      "route": "MON BATCHOUNOUSOUGOUNOUDOUDOU",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "SPARTACUS",
+      "route": "CHAMELEON",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "SPARTACUS",
+      "route": "LES AMAZONES",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "SPARTACUS",
+      "route": "ARES",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "SPARTACUS",
+      "route": "APHRODISIA",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "SPARTACUS",
+      "route": "NABUCHODONOSOR",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "SPARTACUS",
+      "route": "LE 13ÈME TRAVAIL D'HERCULES",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
       "crag": "SPARTAN WALL",
       "route": "ORGANIZER",
       "job": "Fully rebolted",
@@ -5594,6 +5962,14 @@
       "hardware": "Stainless Steel Expansion 316L Marine",
       "date": "2019",
       "dateSort": "2019-00"
+    },
+    {
+      "crag": "SPARTAN WALL",
+      "route": "TALES OF GREEK HEROES",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "2026",
+      "dateSort": "2026-00"
     },
     {
       "crag": "STYX",
