@@ -1,7 +1,7 @@
 {
-  "updated": "2026-04-16T06:39:48Z",
-  "siteUpdated": "2026-04-15",
-  "count": 794,
+  "updated": "2026-04-17T06:40:11Z",
+  "siteUpdated": "2026-04-16",
+  "count": 796,
   "routes": [
     {
       "crag": "AFTERNOON",
@@ -2500,6 +2500,22 @@
       "dateSort": "2024-00"
     },
     {
+      "crag": "JURASSIC PARK",
+      "route": "ST SAVVAS",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
+      "crag": "JURASSIC PARK",
+      "route": "THEMELIS",
+      "job": "Fully rebolted",
+      "hardware": "Titanium Glue-In",
+      "date": "2026",
+      "dateSort": "2026-00"
+    },
+    {
       "crag": "KALYDNA",
       "route": "AURORA",
       "job": "Fully rebolted",
@@ -2831,7 +2847,7 @@
       "crag": "KASTRI",
       "route": "PRINCIPESSA GIULIA",
       "job": "Fully rebolted",
-      "hardware": "Stainless Steel Expansion 316L Marine",
+      "hardware": "Titanium Glue-In",
       "date": "January 2026",
       "dateSort": "2026-01"
     },
@@ -2839,7 +2855,7 @@
       "crag": "KASTRI",
       "route": "DRAGON'S LAIR",
       "job": "Fully rebolted",
-      "hardware": "Stainless Steel Expansion 316L Marine",
+      "hardware": "Titanium Glue-In",
       "date": "January 2026",
       "dateSort": "2026-01"
     },
@@ -2847,7 +2863,7 @@
       "crag": "KASTRI",
       "route": "ENCHANTED CASTLE",
       "job": "Fully rebolted",
-      "hardware": "Stainless Steel Expansion 316L Marine",
+      "hardware": "Titanium Glue-In",
       "date": "January 2026",
       "dateSort": "2026-01"
     },
