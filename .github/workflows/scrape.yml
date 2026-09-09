@@ -21,7 +21,7 @@ jobs:
           python-version: "3.12"
 
       - name: Run scraper
-        run: python scripts/scrape.py
+        run: python scripts/_debug_csv.py
 
       - name: Commit updated data
         run: |
