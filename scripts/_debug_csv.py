@@ -81,6 +81,22 @@ def main():
     print("\n--- last 1500 chars of HTML (for manual inspection) ---")
     print(html[-1500:])
 
+    for path in ["/kalymnos/report", "/kalymnos"]:
+        url = f"https://reboltkalymnos.org{path}"
+        print(f"\n=== fetching {url} ===")
+        status, body2 = fetch(url)
+        html2 = body2.decode("utf-8", errors="replace")
+        print(f"  -> {status}, {len(body2)} bytes")
+        for field in ["crag", "hardware", "\"job\"", "\"route\"", "csv", "export", "login", "sign in", "subscribe", "paywall"]:
+            idxs = [m.start() for m in re.finditer(re.escape(field), html2, re.IGNORECASE)]
+            print(f"  '{field}': {len(idxs)} occurrences")
+        for m in re.finditer(r'["\'](/(?:api|_next/data)[^"\']*)["\']', html2):
+            print(" api path:", m.group(1))
+        print("  --- first 1000 chars ---")
+        print(html2[:1000])
+        print("  --- last 1000 chars ---")
+        print(html2[-1000:])
+
 
 if __name__ == "__main__":
     main()
