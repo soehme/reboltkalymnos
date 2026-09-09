@@ -55,8 +55,31 @@ def main():
         status, body = fetch(url)
         print(f"  {url} -> {status} ({len(body)} bytes)")
 
-    print("\n--- last 3000 chars of HTML (for manual inspection) ---")
-    print(html[-3000:])
+    print("\n--- searching for api/fetch endpoints referenced in scripts ---")
+    seen = set()
+    for m in re.finditer(r'["\'](/(?:api|_next/data)[^"\']*)["\']', html):
+        if m.group(1) not in seen:
+            seen.add(m.group(1))
+            print(" api path:", m.group(1))
+    for m in re.finditer(r'fetch\((["\'][^"\')]+)', html):
+        print(" fetch call:", m.group(1))
+
+    print("\n--- searching for field-name markers (crag/route/job/hardware) ---")
+    for field in ["crag", "hardware", "\"job\"", "\"route\"", "rebolt", "csv", "export"]:
+        idxs = [m.start() for m in re.finditer(re.escape(field), html, re.IGNORECASE)]
+        print(f"  '{field}': {len(idxs)} occurrences")
+        if idxs and field in ("crag", "hardware"):
+            i = idxs[0]
+            print("    context:", html[max(0, i - 150):i + 150].replace("\n", " "))
+
+    print("\n--- looking for other page routes (nav links) that might list a data/export page ---")
+    for m in re.finditer(r'href=["\'](/[a-zA-Z0-9/_-]*)["\']', html):
+        seen.add(m.group(1))
+    for path in sorted(seen):
+        print(" nav link:", path)
+
+    print("\n--- last 1500 chars of HTML (for manual inspection) ---")
+    print(html[-1500:])
 
 
 if __name__ == "__main__":
