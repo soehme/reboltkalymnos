@@ -81,7 +81,12 @@ def main():
     print("\n--- last 1500 chars of HTML (for manual inspection) ---")
     print(html[-1500:])
 
-    for path in ["/kalymnos/report", "/kalymnos"]:
+    print("\n--- sitemap.xml ---")
+    status, body = fetch("https://reboltkalymnos.org/sitemap.xml")
+    print(f"  -> {status}, {len(body)} bytes")
+    print(body.decode("utf-8", errors="replace")[:3000])
+
+    for path in ["/kalymnos/report", "/kalymnos", "/kalymnos/report/", "/kalymnos/"]:
         url = f"https://reboltkalymnos.org{path}"
         print(f"\n=== fetching {url} ===")
         status, body2 = fetch(url)
