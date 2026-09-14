@@ -1,9 +1,12 @@
 name: Scrape Rebolt Log
 
 on:
-  schedule:
-    # Every day at 06:00 UTC
-    - cron: "0 6 * * *"
+  # Daily cron disabled: reboltkalymnos.org was relaunched and no longer
+  # publishes the CSV.csv route log this scraper depends on (confirmed via
+  # sitemap.xml and probing /kalymnos, /kalymnos/report - both 404).
+  # Re-enable the schedule below once the site exposes the data again.
+  # schedule:
+  #   - cron: "0 6 * * *"
   workflow_dispatch: # Allow manual trigger
 
 permissions:
